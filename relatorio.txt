@@ -1,0 +1,15 @@
+peguei os dados da thais
+
+apliquei enriquecer dataset2.py pra incluir genero e região... gerou sbsc_dataset_enriquecido_ibge_2006_2025.csv
+
+usei sbsc_dataset_enriquecido_ibge_2006_2025.csv no limpeza_enriquecimento.py pra remover nomes distintos pra mesma instituição. gerou sbsc_dataset_enriquecido_limpo.csv
+
+usei sbsc_dataset_enriquecido_limpo.csv no correcao_genero.py pra corrigir generos indefinidos ... gerou sbsc_dataset_genero_completo.csv
+
+usei sbsc_dataset_genero_completo.csv  no analisar_genero_regiao_brasil.py pra ter o detalhamento por região do pais ... gerou relatorio_regional_vs_brasil.csv
+
+usei relatorio_regional_vs_brasil.csv no grafico.py e gerou grafico 1, grafico 2, grafico 3 e grafico 4
+
+usei sbsc_dataset_genero_completo.csv no redes_sociais.py e gerou metricas_centralidade_autores.csv e resumo_rede_coautoria.txt e rede_coautoria_sbsc.png
+
+usei sbsc_dataset_genero_completo.csv no perspectiva_historica.py e gerou historico_evolucao_sbsc.csv e resumo_historico_sbsc.csv e evolucao_historica_genero.png e evolucao_historica_volume.png

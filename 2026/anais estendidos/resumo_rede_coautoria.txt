@@ -1,0 +1,43 @@
+=== RESUMO GLOBAL DA REDE DE COAUTORIA SBSC ===
+Total de Autores (Nos): 1325
+Total de Colaboracoes (Arestas): 2798
+Numero de Componentes Conectados: 152
+
+=== TOP 10 - CENTRALIDADE DE GRAU ===
+                  Autor    Gênero  Coautores Diretos  Centralidade Grau
+        Marco A. Gerosa Masculino                 43           0.032477
+       Jose M. N. David Masculino                 42           0.031722
+    Adriana S. Vivacqua  Feminino                 37           0.027946
+        Jonice Oliveira  Feminino                 36           0.027190
+   Juliana B. S. Franca  Feminino                 36           0.027190
+   Cleidson R. B. Souza Masculino                 36           0.027190
+         Vaninha Vieira  Feminino                 33           0.024924
+Carla D. M. Berkenbrock  Feminino                 33           0.024924
+          Bruno Gadelha Masculino                 32           0.024169
+       Ana C. B. Garcia  Feminino                 31           0.023414
+
+=== TOP 10 - CENTRALIDADE DE INTERMEDIACAO ===
+              Autor    Gênero  Intermediacao (Betweenness)
+      Rafael Parizi Masculino                     0.048724
+Angelica F. S. Dias  Feminino                     0.041609
+    Jonice Oliveira  Feminino                     0.040784
+    Marco A. Gerosa Masculino                     0.038435
+Adriana S. Vivacqua  Feminino                     0.034964
+    Wallace Ugulino Masculino                     0.029889
+Marcos R. S. Borges Masculino                     0.029480
+     Vaninha Vieira  Feminino                     0.028208
+   Jose M. N. David Masculino                     0.026470
+    Leticia Machado  Feminino                     0.026274
+
+=== TOP 10 - PROXIMIDADE ===
+               Autor    Gênero  Proximidade (Closeness)
+     Jonice Oliveira  Feminino                 0.128543
+ Angelica F. S. Dias  Feminino                 0.128347
+ Adriana S. Vivacqua  Feminino                 0.127375
+       Rafael Parizi Masculino                 0.124056
+Juliana B. S. Franca  Feminino                 0.120732
+     Wallace Ugulino Masculino                 0.120674
+           Hugo Fuks Masculino                 0.120329
+    Rodrigo Oliveira Masculino                 0.118409
+ Marcos R. S. Borges Masculino                 0.116227
+   Flavia M. Santoro  Feminino                 0.115114

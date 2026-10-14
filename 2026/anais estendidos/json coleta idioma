@@ -1,0 +1,38 @@
+{
+  "_id": "sbsc_categoria_lingua_extendido",
+  "startUrl": ["https://sol.sbc.org.br/index.php/sbsc_estendido/issue/view/1695"],
+  "selectors": [
+    {
+      "id": "article_link",
+      "parentSelectors": ["_root"],
+      "type": "SelectorLink",
+      "selector": "a[href*='/article/view/']",
+      "multiple": true,
+      "delay": 2000
+    },
+    {
+      "id": "title",
+      "parentSelectors": ["article_link"],
+      "type": "SelectorText",
+      "selector": "h1.page_title, .entry-title, h1",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "category",
+      "parentSelectors": ["article_link"],
+      "type": "SelectorText",
+      "selector": ".item.section .value, .section, .breadcrumb li:nth-last-child(2)",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "language",
+      "parentSelectors": ["article_link"],
+      "type": "SelectorText",
+      "selector": ".item.galleys .galley_link, .item.language .value",
+      "multiple": false,
+      "regex": ""
+    }
+  ]
+}

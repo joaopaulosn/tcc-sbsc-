@@ -1,0 +1,43 @@
+=== RESUMO GLOBAL DA REDE DE INSTITUIÇÕES SBSC (2006-2026) ===
+Total de Instituições (Nós): 202
+Total de Parcerias Interinstitucionais (Arestas): 274
+Número de Componentes Conectados: 29
+
+=== TOP 10 - CENTRALIDADE DE GRAU (MAIS PARCERIAS) ===
+Instituição   Região UF  Instituições Parceiras Diretas  Centralidade Grau
+       UFRJ  Sudeste RJ                              25           0.124378
+       UFPA    Norte PA                              19           0.094527
+       UFBA Nordeste BA                              17           0.084577
+       UFPE Nordeste PE                              16           0.079602
+        UFF  Sudeste RJ                              16           0.079602
+     UNIRIO  Sudeste RJ                              16           0.079602
+       UFAM    Norte AM                              15           0.074627
+        USP  Sudeste SP                              15           0.074627
+      UFRGS      Sul RS                              11           0.054726
+       UFES  Sudeste ES                              10           0.049751
+
+=== TOP 10 - CENTRALIDADE DE INTERMEDIAÇÃO (PONTES) ===
+Instituição   Região UF  Intermediação (Betweenness)
+        USP  Sudeste SP                     0.221204
+       UFPA    Norte PA                     0.137426
+       UFRJ  Sudeste RJ                     0.136966
+     UNIRIO  Sudeste RJ                     0.134575
+       UFAM    Norte AM                     0.116390
+       UFPE Nordeste PE                     0.112526
+       UFBA Nordeste BA                     0.107970
+      UFRGS      Sul RS                     0.098728
+       UFMG  Sudeste MG                     0.070150
+       UFES  Sudeste ES                     0.068173
+
+=== TOP 10 - PROXIMIDADE ===
+Instituição   Região UF  Proximidade (Closeness)
+        USP  Sudeste SP                 0.325604
+     UNIRIO  Sudeste RJ                 0.313863
+       UFBA Nordeste BA                 0.292751
+       UFPE Nordeste PE                 0.286961
+       UFES  Sudeste ES                 0.285705
+    PUC-RIO  Sudeste RJ                 0.282003
+       UFRJ  Sudeste RJ                 0.277213
+      UFRGS      Sul RS                 0.272015
+       UFPA    Norte PA                 0.269767
+       UFAM    Norte AM                 0.267556

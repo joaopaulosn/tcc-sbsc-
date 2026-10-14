@@ -1,0 +1,86 @@
+{
+  "_id": "sbsc_2026_extendidos_completo",
+  "startUrl": ["https://sol.sbc.org.br/index.php/sbsc_estendido/issue/view/1695"],
+  "selectors": [
+    {
+      "id": "article_link",
+      "parentSelectors": ["_root"],
+      "type": "SelectorLink",
+      "selector": "a[href*='/article/view/']",
+      "multiple": true,
+      "delay": 2000
+    },
+    {
+      "id": "title",
+      "parentSelectors": ["article_link"],
+      "type": "SelectorText",
+      "selector": "h1.page_title, .entry-title, h1",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "category",
+      "parentSelectors": ["article_link"],
+      "type": "SelectorText",
+      "selector": ".item.section, .section, .breadcrumb li:nth-last-child(2)",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "publish-date",
+      "parentSelectors": ["article_link"],
+      "type": "SelectorText",
+      "selector": ".published .value, .date, .breadcrumb",
+      "multiple": false,
+      "regex": "\\d{4}"
+    },
+    {
+      "id": "abstract",
+      "parentSelectors": ["article_link"],
+      "type": "SelectorText",
+      "selector": ".item.abstract p, .item.abstract .value, .abstract, section.abstract",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "keywords",
+      "parentSelectors": ["article_link"],
+      "type": "SelectorText",
+      "selector": ".item.keywords .value, .keywords",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "language",
+      "parentSelectors": ["article_link"],
+      "type": "SelectorText",
+      "selector": ".item.galleys .galley_link, .item.language .value",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "author_block",
+      "parentSelectors": ["article_link"],
+      "type": "SelectorElement",
+      "selector": ".authors .author, ul.authors > li",
+      "multiple": true,
+      "delay": 0
+    },
+    {
+      "id": "author_name",
+      "parentSelectors": ["author_block"],
+      "type": "SelectorText",
+      "selector": ".name",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "author_affiliation",
+      "parentSelectors": ["author_block"],
+      "type": "SelectorText",
+      "selector": ".affiliation",
+      "multiple": false,
+      "regex": ""
+    }
+  ]
+}
