@@ -4,7 +4,7 @@ import networkx as nx
 import pandas as pd
 
 # 1. Carregar dataset
-df = pd.read_csv("sbsc_dataset_genero_completo_2006_2026.csv")
+df = pd.read_csv("sbsc_dataset_genero_completo_2006_2026_nomes_corrigidos.csv")
 
 # 2. Construir o grafo da rede de coautoria
 G = nx.Graph()
@@ -70,7 +70,7 @@ df_metrics.sort_values(by="Coautores Diretos", ascending=False, inplace=True)
 # EXPORTAÇÃO 1: Tabela completa em CSV
 # -------------------------------------------------------------
 df_metrics.to_csv(
-    "metricas_centralidade_autores.csv", index=False, encoding="utf-8-sig"
+    "metricas_centralidade_autores_2006_2026.csv", index=False, encoding="utf-8-sig"
 )
 print("Arquivo 'metricas_centralidade_autores_2006_2026.csv' gerado com sucesso!")
 

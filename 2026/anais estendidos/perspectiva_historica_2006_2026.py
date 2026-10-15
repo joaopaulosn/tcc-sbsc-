@@ -7,7 +7,7 @@ sns.set_theme(style="whitegrid")
 plt.rcParams.update({"font.size": 11})
 
 # 1. Carregar Dataset
-df = pd.read_csv("sbsc_dataset_genero_completo_2006_2026.csv")
+df = pd.read_csv("sbsc_dataset_genero_completo_2006_2026_nomes_corrigidos.csv")
 
 # Extrair exatamente os 4 dígitos do ano sem passar pelo pd.to_datetime()
 year_col = "publish-date" if "publish-date" in df.columns else "ano"

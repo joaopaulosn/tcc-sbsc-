@@ -1,0 +1,1201 @@
+﻿Autor,Gênero,Coautores Diretos,Centralidade Grau,Intermediacao (Betweenness),Proximidade (Closeness)
+Cleidson R. B. D. Souza,Masculino,48,0.040033,0.054204,0.107767
+Marco A. Gerosa,Masculino,41,0.034195,0.04535,0.12325
+Jose M. N. David,Masculino,40,0.033361,0.032719,0.1202
+Juliana B. D. S. França,Feminino,35,0.029191,0.053544,0.140514
+Carla D. M. Berkenbrock,Feminino,33,0.027523,0.001536,0.031764
+Adriana S. Vivacqua,Feminino,33,0.027523,0.039761,0.135792
+Jonice Oliveira,Feminino,33,0.027523,0.048268,0.137344
+Bruno Gadelha,Masculino,32,0.026689,0.064724,0.134902
+Vaninha Vieira,Feminino,32,0.026689,0.045695,0.12332
+Angélica F. D. S. Dias,Feminino,31,0.025855,0.078391,0.146613
+Aida A. Ferreira,Feminino,31,0.025855,0.077738,0.085261
+Marcos R. S. Borges,Masculino,30,0.025021,0.041307,0.131137
+Ana C. B. Garcia,Feminino,29,0.024187,0.024579,0.117521
+Hugo Fuks,Masculino,26,0.021685,0.025558,0.131777
+Igor F. Steinmacher,Masculino,25,0.020851,0.032442,0.123567
+Rafael B. Parizi,Masculino,22,0.018349,0.085783,0.139291
+Regina M. M. Braga,Feminino,20,0.016681,0.00056,0.1019
+Melise M. V. D. Paula,Feminino,20,0.016681,0.021635,0.096964
+Flavia M. Santoro,Feminino,19,0.015847,0.019645,0.128679
+Raquel O. Prates,Feminino,19,0.015847,0.041987,0.06277
+Claudia L. R. D. Motta,Feminino,19,0.015847,0.021292,0.132382
+Alberto B. Raposo,Masculino,18,0.015013,0.011727,0.123921
+Letícia D. S. Machado,Feminino,18,0.015013,0.052864,0.119042
+Glívia A. R. Barbosa,Feminino,18,0.015013,0.01316,0.052701
+Sabrina Marczak,Feminino,17,0.014178,0.031379,0.125796
+Rodrigo R. Oliveira,Masculino,17,0.014178,0.017823,0.131337
+Ailton Ribeiro,Masculino,17,0.014178,0.002409,0.113719
+Mariano Pimentel,Masculino,17,0.014178,0.021865,0.125796
+Fernando A. M. Filho,Masculino,17,0.014178,0.017365,0.111519
+Ana P. Chaves,Feminino,17,0.014178,0.008904,0.113659
+Roberta L. Gomes,Feminino,17,0.014178,0.021326,0.109625
+Fabricio Benevenuto,Masculino,17,0.014178,0.05391,0.069034
+Wallace Ugulino,Masculino,17,0.014178,0.026039,0.126384
+Emanuel F. Coutinho,Masculino,17,0.014178,0.000249,0.013456
+Ismael S. Silva,Masculino,16,0.013344,0.013081,0.052688
+Thais Castro,Feminino,16,0.013344,0.009082,0.11797
+Raimundo M. D. A. Júnior,Masculino,16,0.013344,0.012872,0.08023
+Genildo Gomes,Masculino,15,0.01251,0.003181,0.111923
+Silvio R. L. Meira,Masculino,15,0.01251,0.007449,0.08849
+Jano M. Souza,Masculino,15,0.01251,0.029517,0.11426
+Igor S. Wiese,Masculino,14,0.011676,0.000735,0.112477
+Carla M. Silva,Feminino,14,0.011676,0.09698,0.094982
+Iona M. B. R. Barbosa,Feminino,14,0.011676,0.004348,0.083839
+Celso M. Hirata,Masculino,13,0.010842,0.000188,0.021895
+Ana M. Amorim,Feminino,13,0.010842,0.006936,0.116132
+Anna B. S. Marques,Feminino,13,0.010842,0.064459,0.116132
+Maria C. Pestana,Feminino,13,0.010842,0.001284,0.112623
+Thayssa A. Rocha,Feminino,12,0.010008,0.005926,0.102382
+Tadeu M. Classe,Masculino,12,0.010008,0.007683,0.106914
+Daniel Schneider,Masculino,12,0.010008,0.010793,0.121313
+Vania S. Carvalho,Feminino,11,0.009174,0.001731,0.083742
+Fernanda C. A. Campos,Feminino,11,0.009174,1e-05,0.100409
+Marcelle P. Mota,Feminino,11,0.009174,0.003983,0.091738
+Murilo G. Arouca,Masculino,11,0.009174,0.001593,0.105428
+Katia Vega,Feminino,11,0.009174,0.00039,0.116008
+Flavio R. S. Coutinho,Masculino,11,0.009174,6.1e-05,0.048585
+Vanessa Braganholo,Feminino,11,0.009174,0.016013,0.112653
+Gilmar G. Brito,Masculino,11,0.009174,0.004334,0.083823
+Edeilson M. Silva,Masculino,10,0.00834,0.00247,0.088399
+Maria L. D. S. Lima,Feminino,10,0.00834,0.004978,0.074855
+Eduardo F. Nakamura,Masculino,10,0.00834,2.7e-05,0.00834
+Denise Filippo,Feminino,10,0.00834,0.002857,0.123602
+Ana P. C. Silva,Feminino,10,0.00834,0.055972,0.076362
+Victor Stroele,Masculino,10,0.00834,9e-06,0.100385
+Tayana Conte,Feminino,10,0.00834,0.011607,0.125213
+Cesar A. Tacla,Masculino,10,0.00834,7.9e-05,0.008809
+Luciano A. Teran,Masculino,10,0.00834,0.00199,0.091718
+Carlos J. P. Lucena,Masculino,10,0.00834,0.006974,0.123921
+Marcos A. G. Xavier,Masculino,9,0.007506,0.003304,0.110522
+Marcelo G. Perin,Masculino,9,0.007506,0.000914,0.105945
+Rita S. P. Maciel,Feminino,9,0.007506,1.5e-05,0.100362
+Claudia Cappelli,Feminino,9,0.007506,0.01031,0.122934
+Rafael S. M. Ferreira,Masculino,9,0.007506,0.004978,0.048574
+Leonardo Vasconcelos,Masculino,9,0.007506,1.4e-05,0.007506
+Márcia J. N. R. Lucena,Feminino,9,0.007506,2.5e-05,0.007506
+Isabela Gasparini,Feminino,9,0.007506,0.000391,0.020882
+Leandro Galvão,Masculino,9,0.007506,0.001122,0.110606
+Joao G. Kienen,Masculino,9,0.007506,0.000157,0.099714
+José Viterbo,Masculino,9,0.007506,1.4e-05,0.007506
+Francisco V. D. S. Pinheiro,Masculino,9,0.007506,8e-06,0.009388
+Rogerio A. Paula,Masculino,9,0.007506,0.002485,0.045023
+Ana C. Salgado,Feminino,9,0.007506,0.015214,0.103164
+Claudio S. Pinhanez,Masculino,9,0.007506,0.002485,0.045023
+Luiz G. P. Alves,Masculino,9,0.007506,0.006949,0.103017
+Gian R. Berkenbrock,Masculino,9,0.007506,2.4e-05,0.020136
+Adriano N. Souza,Masculino,9,0.007506,0.001141,0.126606
+Marco A. P. Araujo,Masculino,8,0.006672,2e-06,0.100339
+Marcos E. Barreto,Masculino,8,0.006672,0.000535,0.105351
+Hilson G. V. Andrade,Masculino,8,0.006672,0.002995,0.074803
+Alessandro Jatoba,Masculino,8,0.006672,0.001098,0.10214
+Monica F. Silva,Feminino,8,0.006672,0.005073,0.114381
+Carlos D. S. Cruz,Masculino,8,0.006672,0.000382,0.102577
+Benedito T. Dantas,Masculino,8,0.006672,0.000499,0.108036
+Jacilane H. Rabelo,Feminino,8,0.006672,0.003989,0.103908
+Leif Singer,Masculino,8,0.006672,0.003443,0.108715
+Francisco S. S. Neto,Masculino,8,0.006672,0.039677,0.110862
+Fabiola S. F. Sell,Feminino,8,0.006672,1e-05,0.019611
+Renata M. Araujo,Feminino,8,0.006672,0.005916,0.118131
+Debora Cardador,Feminino,8,0.006672,4.4e-05,0.115914
+Breno D. N. Santos,Masculino,8,0.006672,0.002995,0.074803
+Thais G. Almeida,Feminino,8,0.006672,8e-06,0.00695
+Guilherme Vilar,Masculino,8,0.006672,8e-06,0.006672
+Jorge S. Correia-Neto,Masculino,8,0.006672,8e-06,0.006672
+Christoph Treude,Masculino,8,0.006672,0.003443,0.108715
+Ana P. A. Santos,Feminino,8,0.006672,0.026543,0.125068
+Isa B. C. Neves,Feminino,8,0.006672,0.000535,0.105351
+Mauro C. Pichiliani,Masculino,8,0.006672,0.000171,0.020882
+Carolina S. Andrade,Feminino,8,0.006672,0.00891,0.048596
+Rosiane Freitas,Feminino,7,0.005838,0.000551,0.110776
+Gustavo Zurita,Masculino,7,0.005838,0.0,0.005838
+Eduardo C. Dalcin,Masculino,7,0.005838,0.0,0.096144
+Filipe B. Carmo,Masculino,7,0.005838,0.0,0.096144
+Marco A. V. M. Vasconcelos,Masculino,7,0.005838,0.0,0.088057
+Fernando L. Almeida,Masculino,7,0.005838,0.0,0.088057
+Vanessa M. Ferreira,Feminino,7,0.005838,1.5e-05,0.005838
+Kiev Gama,Masculino,7,0.005838,0.0,0.104183
+Wagner V. Sampaio,Masculino,7,0.005838,3e-06,0.070856
+Karina Kohl,Feminino,7,0.005838,0.0,0.104183
+Tatiana Cartagena,Feminino,7,0.005838,0.0,0.104183
+Daniel Oliveira,Masculino,7,0.005838,0.003988,0.095213
+Graca Bressan,Desconhecido,7,0.005838,0.0,0.088057
+João J. Sebastião,Masculino,7,0.005838,0.0,0.005838
+Italo F. D. Silva,Masculino,7,0.005838,0.0,0.005838
+Gabriel Velloso,Masculino,7,0.005838,0.0,0.104183
+Lee S. Suassuna,Masculino,7,0.005838,0.0,0.075548
+Natalya Goelzer,Feminino,7,0.005838,0.0,0.104183
+Muller G. Miranda,Masculino,7,0.005838,0.000153,0.095803
+Renato P. Ferreira,Masculino,7,0.005838,0.000153,0.095803
+Ana M. Lima,Feminino,7,0.005838,0.09619,0.106519
+Carla I. M. Bezerra,Feminino,7,0.005838,3e-06,0.00897
+Francila W. Neiva,Feminino,7,0.005838,1e-06,0.100316
+Leonardo P. V. Lima,Masculino,7,0.005838,0.0,0.075548
+Aurea H. S. Melo,Feminino,7,0.005838,6e-06,0.005838
+Raimundo S. Barreto,Masculino,7,0.005838,6e-06,0.005838
+Geraldo Z. Silva,Masculino,7,0.005838,0.0,0.096144
+Allyson A. Araujo,Masculino,7,0.005838,3e-06,0.005838
+Djalma A. Lima,Feminino,7,0.005838,0.0,0.096144
+Sheila F. P. Oliveira,Feminino,7,0.005838,0.0,0.005838
+Talita A. B. Caneda,Feminino,7,0.005838,0.0,0.005838
+Kleto M. Zan,Masculino,7,0.005838,0.0,0.096144
+Marco A. Vaz,Masculino,7,0.005838,0.0,0.096144
+Ricardo Pereira,Masculino,7,0.005838,0.0,0.005838
+Marco Sa,Masculino,7,0.005838,0.0,0.005838
+Joao Faria,Masculino,7,0.005838,0.0,0.005838
+Luis A. E. Silva,Masculino,7,0.005838,0.0,0.096144
+Pamella Soares,Feminino,7,0.005838,3e-06,0.005838
+Jerffeson Souza,Masculino,7,0.005838,3e-06,0.005838
+Francielle Beria,Feminino,7,0.005838,0.0,0.104183
+Andrêus Sousa,Masculino,7,0.005838,0.0,0.104183
+Raoni Kulesza,Masculino,7,0.005838,0.0,0.088057
+Regina M. Silveira,Feminino,7,0.005838,0.0,0.088057
+Isabel Sa,Feminino,7,0.005838,0.0,0.005838
+Guido L. S. Filho,Masculino,7,0.005838,0.0,0.088057
+Marcos F. Jardini,Masculino,7,0.005838,0.0,0.088057
+Ruan P. D. S. Soares,Masculino,7,0.005838,0.0,0.005838
+Luis Carrico,Masculino,7,0.005838,0.0,0.005838
+Luis Duarte,Masculino,7,0.005838,0.0,0.005838
+Beatriz S. Tartare,Feminino,7,0.005838,0.0,0.005838
+Gabriel F. D. Santos,Masculino,7,0.005838,0.0,0.005838
+Maria E. W. D. M. Vianna,Feminino,7,0.005838,0.0,0.005838
+Nelson Baloian,Desconhecido,7,0.005838,0.0,0.005838
+Adriano E. J. D. Silva,Masculino,7,0.005838,0.0,0.075548
+Samara J. S. D. Melo,Feminino,7,0.005838,0.0,0.075548
+Caio Valente,Masculino,7,0.005838,0.0,0.102431
+Gabriel Reganati,Masculino,7,0.005838,0.0,0.102431
+Bruna Diirr,Feminino,7,0.005838,0.006041,0.105377
+Renata Claro,Desconhecido,7,0.005838,0.0,0.102431
+Silvia Valentini,Feminino,7,0.005838,0.0,0.102431
+Thiago F. Silva,Masculino,7,0.005838,0.0,0.102431
+Andre Chou,Masculino,7,0.005838,0.0,0.102431
+Artur S. Rozestraten,Masculino,7,0.005838,0.0,0.102431
+Joao P. F. Oliveira,Masculino,7,0.005838,8e-06,0.005838
+Ricardo A. Costa,Masculino,7,0.005838,6e-06,0.077221
+Cicero Jupi,Masculino,7,0.005838,0.0,0.108036
+Rossana M. C. Andrade,Feminino,7,0.005838,3e-06,0.00897
+Fabio Baia,Masculino,7,0.005838,0.0,0.108036
+Karen Moreschi,Feminino,7,0.005838,0.0,0.108036
+Leandro A. Melo,Masculino,7,0.005838,5.7e-05,0.095803
+Edilson F. Costa,Masculino,7,0.005838,0.0,0.108036
+Rebeca B. D. L. O. Silva,Feminino,7,0.005838,0.0,0.075548
+Maria L. S. D. Souza,Feminino,7,0.005838,0.0,0.075548
+Filipe R. Cogo,Masculino,7,0.005838,0.000724,0.108036
+Ana C. M. Oliveira,Feminino,6,0.005004,0.064766,0.129916
+Carlos Oliveira,Masculino,6,0.005004,0.003988,0.113929
+Daniel G. Costa,Masculino,6,0.005004,1.4e-05,0.005108
+Ricardo Valentim,Masculino,6,0.005004,0.0,0.00563
+Lyrene Silva,Feminino,6,0.005004,0.0,0.00563
+Luciana C. C. Salgado,Feminino,6,0.005004,0.002,0.111634
+Fernando Farias,Masculino,6,0.005004,0.0,0.00563
+Ingridy Barbalho,Feminino,6,0.005004,0.0,0.00563
+Raissa K. M. Serrao,Feminino,6,0.005004,1e-06,0.005004
+Eliene S. Santos,Feminino,6,0.005004,1e-06,0.005004
+Flavia P. Monteiro,Feminino,6,0.005004,1e-06,0.005004
+Bruno Bione,Masculino,6,0.005004,1e-06,0.074738
+Rian D. Alves,Masculino,6,0.005004,3e-06,0.100292
+Lucas S. Silva,Masculino,6,0.005004,2.1e-05,0.005338
+Artur Machado,Masculino,6,0.005004,1e-06,0.074738
+Clara M. Caldeira,Feminino,6,0.005004,4e-06,0.102092
+Rogério F. D. Silva,Masculino,6,0.005004,0.002995,0.082354
+Beatriz Soares,Feminino,6,0.005004,0.0,0.00563
+Felipe Fernandes,Masculino,6,0.005004,0.0,0.00563
+Gustavo Martins,Masculino,6,0.005004,0.001001,0.099645
+Jéssyka Vilela,Feminino,6,0.005004,0.002002,0.082135
+Debora N. F. Barbosa,Feminino,6,0.005004,1.7e-05,0.005108
+Tiago H. S. Leite,Masculino,6,0.005004,1e-06,0.095782
+Alessandro S. D. Santos,Masculino,6,0.005004,1.3e-05,0.005004
+Lucas Araujo,Masculino,6,0.005004,0.0,0.103609
+Bruna Diir,Feminino,6,0.005004,0.005026,0.116195
+Carlos E. R. Mello,Masculino,6,0.005004,0.001109,0.100619
+Luciana P. Araujo,Feminino,6,0.005004,0.000131,0.019958
+Mauro M. Mattos,Masculino,6,0.005004,0.000131,0.019958
+Joao A. Souza,Masculino,6,0.005004,0.005965,0.095255
+Carina Missae,Feminino,6,0.005004,0.0,0.041908
+Elaine N. Watanabe,Feminino,6,0.005004,0.0,0.041908
+Alessandro Costa,Masculino,6,0.005004,0.0,0.041908
+Silvia C. S. Bianchi,Feminino,6,0.005004,0.0,0.041908
+Julio C. S. Reis,Masculino,6,0.005004,6.5e-05,0.062363
+Edgar Delbem,Masculino,6,0.005004,0.000571,0.121552
+Vagner F. Santana,Masculino,6,0.005004,0.0,0.041908
+Davi L. Silva,Masculino,6,0.005004,0.0,0.103609
+Nazareno F. Andrade,Masculino,6,0.005004,1.5e-05,0.005004
+Geanderson E. Santos,Masculino,6,0.005004,0.030658,0.057319
+Bárbara P. Caetano,Feminino,6,0.005004,6e-06,0.083596
+Adriana Dantas,Feminino,6,0.005004,1e-06,0.098735
+Antonia N. F. Lima,Feminino,6,0.005004,0.0,0.103609
+Carlos H. Lopes,Masculino,6,0.005004,1.3e-05,0.091563
+Darcio M. O. Silva,Masculino,6,0.005004,0.0,0.103609
+Joao P. S. J. Costa,Masculino,6,0.005004,0.003037,0.110043
+Isomar Lima,Masculino,6,0.005004,1e-06,0.098735
+Orivaldo L. Tavares,Masculino,6,0.005004,0.004986,0.092941
+Gledson Elias,Masculino,6,0.005004,0.0,0.005108
+Alan T. A. Silva,Masculino,6,0.005004,2e-06,0.091641
+Sebastiao R. Jr,Masculino,6,0.005004,0.0,0.005108
+Adriana E. Oliveira,Feminino,6,0.005004,0.0,0.005108
+Sirius T. F. Silva,Masculino,6,0.005004,0.000247,0.126495
+Amilcar Soares,Masculino,6,0.005004,0.0,0.005108
+Yuri Morais,Masculino,6,0.005004,0.0,0.005108
+Talles Brito,Masculino,6,0.005004,0.0,0.005108
+Syntya F. D. Souza,Feminino,6,0.005004,0.0,0.070844
+Marcilene C. Sarubi,Feminino,6,0.005004,0.0,0.070844
+Marcelo F. D. Souza,Masculino,6,0.005004,0.0,0.070844
+Layane K. B. Bentes,Feminino,6,0.005004,0.0,0.070844
+Josimar D. A. Mendes,Masculino,6,0.005004,0.0,0.070844
+Maria T. S. Santos,Feminino,5,0.00417,3e-06,0.01455
+Margarete M. L. Volpato,Feminino,5,0.00417,0.0,0.083564
+Flávio B. S. Mota,Masculino,5,0.00417,0.0,0.083564
+Clara L. Moreno,Feminino,5,0.00417,0.0,0.083564
+Vanessa C. O. Souza,Feminino,5,0.00417,0.0,0.083564
+João M. D. S. Brandão,Masculino,5,0.00417,0.0,0.083564
+Gabriel B. S. Pinto,Masculino,5,0.00417,2.9e-05,0.098757
+Edgar N. A. G. Lima,Masculino,5,0.00417,0.0,0.004853
+Gustavo Freitas,Masculino,5,0.00417,0.0,0.004853
+Geraldo C. Junior,Masculino,5,0.00417,0.0,0.004853
+Marialina C. Sobrinho,Feminino,5,0.00417,0.0,0.00417
+Igor D. A. Printes,Masculino,5,0.00417,0.0,0.00417
+Sandyella S. Soares,Feminino,5,0.00417,0.0,0.00417
+Gabriel S. Barreto,Masculino,5,0.00417,3e-06,0.004541
+Luis Rivero,Masculino,5,0.00417,0.0,0.004541
+Jonathas Santos,Masculino,5,0.00417,0.0,0.004541
+Danielle Valente,Feminino,5,0.00417,0.0,0.004541
+Diego Lopes,Masculino,5,0.00417,0.0,0.004541
+Lidia S. Ferreira,Feminino,5,0.00417,2e-06,0.056867
+Heleno S. C. Junior,Masculino,5,0.00417,0.0,0.100269
+Felipe M. Muller,Masculino,5,0.00417,0.0,0.00417
+Tarcila G. Silva,Feminino,5,0.00417,0.0,0.00417
+Andre Z. Cordenonsi,Masculino,5,0.00417,0.0,0.00417
+Giliane Bernardi,Feminino,5,0.00417,0.0,0.00417
+David R. B. Al-Ani,Masculino,5,0.00417,0.0,0.106624
+Flavio Steffens,Masculino,5,0.00417,0.0,0.106624
+Desiree Scarambone,Feminino,5,0.00417,0.0,0.094443
+Bernardo Scarambone,Masculino,5,0.00417,0.0,0.094443
+Fernando Nogueira,Masculino,5,0.00417,0.0,0.094443
+Jose N. B. Silva,Masculino,5,0.00417,0.009877,0.12067
+Sandra Mattos,Feminino,5,0.00417,0.0,0.004853
+Ronier S. Lima,Masculino,5,0.00417,0.0,0.008589
+Maria E. L. Silva,Feminino,5,0.00417,0.0,0.008589
+Thiago C. Jesus,Masculino,5,0.00417,3e-06,0.004541
+Eulanda M. Santos,Feminino,5,0.00417,0.0,0.00556
+Bernardo B. Gatto,Masculino,5,0.00417,0.0,0.00556
+Andreza C. Santos,Feminino,5,0.00417,0.002844,0.129217
+Cristiana P. Bispo,Feminino,5,0.00417,0.0,0.100269
+Rodrigo C. Andrade,Masculino,5,0.00417,0.001945,0.116728
+Antonio Neto,Masculino,5,0.00417,0.0,0.098712
+Lucilene Maciel,Feminino,5,0.00417,0.0,0.098712
+David Lima,Masculino,5,0.00417,0.0,0.098712
+Parcilene F. Brito,Feminino,5,0.00417,0.0,0.088309
+Jackson G. Souza,Masculino,5,0.00417,0.0,0.088309
+Diego O. Rodrigues,Masculino,5,0.00417,0.0,0.088309
+Waldir S. Moura,Masculino,5,0.00417,0.00074,0.125104
+Mayara C. Figueiredo,Feminino,5,0.00417,0.001003,0.091485
+Tiago C. D. França,Masculino,5,0.00417,2e-06,0.111923
+Ricardo Fleck,Masculino,5,0.00417,0.0,0.00417
+Andreia S. Bos,Feminino,5,0.00417,0.0,0.00417
+Guilherme G. Martins,Masculino,5,0.00417,0.0,0.100269
+Marcio G. Arakaki,Masculino,5,0.00417,0.0,0.100269
+Simone E. Costa,Feminino,5,0.00417,3e-06,0.019112
+Sean W. M. Siqueira,Masculino,5,0.00417,0.002998,0.104208
+Philipe Marques,Masculino,5,0.00417,0.0,0.100269
+Lenita M. Ambrosio,Feminino,5,0.00417,0.0,0.100269
+Fabiola G. Nakamura,Feminino,5,0.00417,1e-06,0.00556
+Bruno A. Souza,Masculino,5,0.00417,1e-06,0.00556
+Lincoln Brito,Masculino,5,0.00417,0.0,0.102431
+Jailson Brito,Masculino,5,0.00417,0.0,0.102431
+Victor Martinez,Masculino,5,0.00417,0.0,0.102431
+Adriano Fialho,Masculino,5,0.00417,0.0,0.102431
+Luiz H. F. Pavão,Masculino,5,0.00417,0.0,0.074764
+David E. F. D. Silva,Masculino,5,0.00417,0.0,0.074764
+Ana L. R. D. Costa,Feminino,5,0.00417,0.0,0.074764
+Elisa H. M. Huzita,Feminino,5,0.00417,0.001999,0.105274
+Luciana S. Brito,Feminino,5,0.00417,0.0,0.124492
+Gabriel C. Oliveira,Masculino,5,0.00417,0.0,0.014095
+Karina Z. Cunha,Feminino,5,0.00417,0.0,0.014095
+Nelson Hein,Masculino,5,0.00417,0.0,0.014095
+Fabricia D. Zucco,Feminino,5,0.00417,0.0,0.014095
+Carlos M. S. Figueiredo,Masculino,5,0.00417,0.0,0.00556
+Alice A. F. Menezes,Feminino,5,0.00417,0.0,0.00556
+Fabio Freire,Masculino,5,0.00417,0.0,0.095761
+Camila Campos,Feminino,5,0.00417,0.0,0.090851
+Samuel Braz,Masculino,5,0.00417,0.0,0.090851
+Matheus Dore,Masculino,5,0.00417,0.0,0.090851
+Iran R. Costa,Masculino,5,0.00417,0.0,0.090851
+Gildo Leonel,Masculino,5,0.00417,0.0,0.090851
+Ricardo R. M. Melo,Masculino,5,0.00417,0.000523,0.10202
+Fabiana Barros,Feminino,5,0.00417,0.0,0.083564
+Mauro S. R. Souza,Masculino,5,0.00417,0.0,0.083564
+Pedro T. M. Pedrosa,Masculino,5,0.00417,0.0,0.083564
+Gustavo E. R. G. Alves,Masculino,5,0.00417,0.0,0.083564
+Kayque W. R. Oliveira,Masculino,5,0.00417,0.0,0.083564
+Alvaro P. Jr.,Masculino,5,0.00417,0.0,0.06196
+Reinaldo Fortes,Masculino,5,0.00417,0.0,0.06196
+Leonardo Bombonato,Masculino,5,0.00417,0.0,0.06196
+Thalisson Oliveira,Masculino,5,0.00417,0.0,0.06196
+Diego Silveira,Masculino,5,0.00417,0.0,0.06196
+Joao E. Ferreira,Masculino,5,0.00417,0.0,0.107821
+Rafael Liberato,Masculino,5,0.00417,0.0,0.107821
+Andre L. Schwerz,Masculino,5,0.00417,0.0,0.107821
+Adolfo Duran,Masculino,5,0.00417,0.0,0.102431
+Gabriel C. Fornitano,Masculino,5,0.00417,0.0,0.083564
+Huandy C. Camargo,Masculino,5,0.00417,0.0,0.083564
+Amanda Klein,Feminino,5,0.00417,0.0,0.083564
+Tanara Lauschner,Feminino,5,0.00417,0.0,0.110493
+Romualdo Costa,Masculino,5,0.00417,0.0,0.110493
+Edward C. Souza,Masculino,5,0.00417,0.0,0.110493
+Ecivaldo S. Matos,Masculino,5,0.00417,8e-06,0.00417
+Rafael M. Mello,Masculino,5,0.00417,0.0,0.11089
+Claudio Barizon,Masculino,5,0.00417,0.0,0.11089
+Joao P. B. Gloria,Masculino,5,0.00417,0.0,0.11089
+Patrick H. A. Belem,Masculino,5,0.00417,0.0,0.11089
+Eunice Nunes,Feminino,5,0.00417,0.0,0.005197
+Clodis Boscarioli,Feminino,5,0.00417,0.0,0.005197
+Alexandre Pires,Masculino,5,0.00417,7.6e-05,0.115697
+Enzo Kleinpaul,Masculino,5,0.00417,7.6e-05,0.115697
+Sergio R. P. Silva,Masculino,5,0.00417,4.2e-05,0.006712
+Fred Freitas,Masculino,5,0.00417,0.0,0.044963
+Rinaldo Lima,Masculino,5,0.00417,0.0,0.044963
+Evandro Costa,Masculino,5,0.00417,0.0,0.044963
+Patrick Brito,Masculino,5,0.00417,0.0,0.044963
+Jean Melo,Masculino,5,0.00417,0.0,0.044963
+Flavia Bernardini,Feminino,5,0.00417,0.0,0.005197
+Raissa Barcellos,Feminino,5,0.00417,0.0,0.005197
+Rodrigo Meliande,Masculino,5,0.00417,0.0,0.105274
+Rafael M. D. Frinhani,Masculino,5,0.00417,0.0,0.083564
+Emanuel A. Rodrigues,Masculino,5,0.00417,0.015684,0.092031
+Beatriz S. Racca,Feminino,5,0.00417,1.8e-05,0.114351
+Pablo E. L. Villanueva,Masculino,5,0.00417,0.0,0.124492
+Andre V. Tardelli,Masculino,5,0.00417,0.0,0.124492
+Luciane C. J. Deus,Feminino,5,0.00417,0.000869,0.124815
+Paulo H. M. Maia,Masculino,5,0.00417,0.0,0.004541
+Matheus Paixao,Masculino,5,0.00417,0.0,0.004541
+Rommel Castro,Masculino,5,0.00417,0.0,0.004541
+Alberto Castro,Masculino,5,0.00417,0.000828,0.118715
+Guilherme Barbosa,Masculino,5,0.00417,0.0,0.100269
+Kennya Siqueira,Feminino,5,0.00417,0.0,0.100269
+Richard Guedes,Masculino,5,0.00417,0.0,0.095171
+Paulo Victor,Masculino,5,0.00417,0.0,0.095171
+Daniele Sucena,Feminino,5,0.00417,0.0,0.095171
+Lillian Rosemback,Feminino,5,0.00417,0.0,0.095171
+Gilson Y. Sato,Masculino,5,0.00417,0.0,0.005873
+Ademir R. Freddo,Masculino,5,0.00417,0.0,0.005873
+Viviane David,Feminino,5,0.00417,0.0,0.108443
+Andreia Pereira,Feminino,5,0.00417,0.0,0.108443
+Clovis T. Fernandes,Masculino,5,0.00417,0.000139,0.020317
+Samantha Vrabl,Feminino,5,0.00417,0.004924,0.119503
+Marcos Barbato,Masculino,5,0.00417,0.0,0.115543
+Heloisa Moura,Feminino,5,0.00417,0.0,0.115543
+Milton P. Ramos,Masculino,5,0.00417,0.0,0.005873
+Bruno Campagnolo,Masculino,5,0.00417,0.0,0.005873
+Emerson C. Paraiso,Masculino,5,0.00417,0.0,0.005873
+Victor S. A. Menezes,Masculino,5,0.00417,0.0,0.101541
+Marcelo F. Moreno,Masculino,5,0.00417,0.0,0.101541
+Mario A. R. Dantas,Masculino,5,0.00417,0.0,0.101541
+Hussein Khalil,Masculino,5,0.00417,0.0,0.089776
+Federico Costa,Masculino,5,0.00417,0.0,0.089776
+Andre L. C. Pinheiro,Masculino,5,0.00417,0.0,0.091582
+Aline F. A. Lima,Feminino,5,0.00417,0.0,0.091582
+Caroline C. Silva,Feminino,5,0.00417,0.0,0.004289
+Carlos S. S. Souza,Masculino,5,0.00417,0.0,0.004289
+Neidiane A. Soares,Feminino,5,0.00417,0.0,0.004289
+Iasmim D. C. Marinho,Feminino,5,0.00417,2.3e-05,0.105197
+Renato P. Conceicao,Masculino,5,0.00417,0.0,0.100269
+Italo Ribeiro,Masculino,5,0.00417,0.0,0.100269
+Bruno C. Silva,Masculino,5,0.00417,0.0,0.100269
+Kamila D. H. R. Rodrigues,Feminino,5,0.00417,0.0,0.079683
+Ingrid T. Monteiro,Feminino,5,0.00417,0.0,0.079683
+Suzane S. D. Santos,Feminino,5,0.00417,0.0,0.079683
+Giselle L. N. Melo,Feminino,5,0.00417,0.0,0.079683
+Edson J. S. C. Filho,Masculino,5,0.00417,0.0,0.074764
+Gabriel V. S. Soares,Masculino,5,0.00417,0.0,0.074764
+Geovanna M. S. M. E. Leite,Feminino,5,0.00417,0.0,0.074764
+Welton P. L. Felix,Masculino,5,0.00417,0.0,0.074764
+Carlos G. Araujo,Masculino,5,0.00417,0.0,0.099622
+Arthur G. S. Luz,Masculino,5,0.00417,0.0,0.07479
+Patricia C. Vieira,Feminino,5,0.00417,0.0,0.066609
+Mariana B. Porciúncula,Feminino,5,0.00417,0.0,0.066609
+Caroline M. Nascimento,Feminino,5,0.00417,0.0,0.074725
+Carlos A. L. Barros,Masculino,5,0.00417,0.0,0.074725
+Romero B. Assis,Masculino,5,0.00417,0.0,0.083645
+Franklin S. Oliveira,Masculino,5,0.00417,7e-06,0.004853
+Dulcineia E. Santos,Feminino,5,0.00417,7e-06,0.004853
+Crystian P. Silva,Masculino,5,0.00417,0.0,0.07479
+Cristiano Maciel,Masculino,5,0.00417,0.005286,0.109044
+Bruni Carletti,Masculino,5,0.00417,0.0,0.066609
+Chrinovic T. Ngala,Masculino,5,0.00417,0.0,0.066609
+Juliana M. Pinto,Feminino,5,0.00417,0.0,0.066609
+Clayton A. M. D. Santos,Masculino,5,0.00417,0.0,0.00417
+Irley M. Araújo,Masculino,5,0.00417,0.0,0.00417
+Deivid E. Silva,Masculino,5,0.00417,0.0,0.00417
+Mirella E. B. Santana,Feminino,5,0.00417,0.0,0.07479
+Monica D. Correa-Silva,Feminino,5,0.00417,1e-06,0.004541
+Marcos B. Pereira,Masculino,5,0.00417,1e-06,0.004541
+Gilmar Britto,Masculino,5,0.00417,0.0,0.074725
+Patricia A. Tedesco,Feminino,4,0.003336,0.000489,0.102796
+Lorenzo Acosta,Masculino,4,0.003336,0.0,0.113183
+Ícaro Iglesias,Masculino,4,0.003336,0.0,0.113183
+Thaís Nunes,Feminino,4,0.003336,0.000216,0.121586
+Silas L. Filho,Masculino,4,0.003336,0.000239,0.119371
+Julli C. Modesto,Feminino,4,0.003336,0.0,0.11797
+Caroline B. Figueiredo,Feminino,4,0.003336,0.0,0.11797
+Gabriel A. S. Guimaraes,Masculino,4,0.003336,0.0,0.11797
+Lenine V. Oliveira,Masculino,4,0.003336,0.0,0.11797
+Gustavo A. A. Coelho,Masculino,4,0.003336,0.0,0.004087
+Gustavo F. Silva,Masculino,4,0.003336,0.0,0.004087
+Elder Cirilo,Masculino,4,0.003336,0.0,0.117107
+Alberto C. Jr.,Masculino,4,0.003336,0.0,0.117107
+Diego S. Souza,Masculino,4,0.003336,0.0,0.112917
+Guilherme Fogaca,Masculino,4,0.003336,0.0,0.112917
+Pedro C. Silveira,Masculino,4,0.003336,0.0,0.112917
+Pedro Antunes,Masculino,4,0.003336,0.001999,0.107794
+Jacques Wainer,Masculino,4,0.003336,0.002998,0.079566
+André L. C. D. Silva,Masculino,4,0.003336,0.0,0.00841
+Rhenara Alves,Feminino,4,0.003336,0.0,0.00841
+Eriky Rodrigues,Masculino,4,0.003336,0.0,0.003336
+Laleska Mesquita,Feminino,4,0.003336,0.0,0.003336
+Iago Meijon,Masculino,4,0.003336,0.0,0.105172
+Wagner Santos,Masculino,4,0.003336,0.0,0.082245
+Gabriel Coelho,Masculino,4,0.003336,0.0,0.082245
+Aline Paes,Feminino,4,0.003336,0.0,0.082245
+Isabel Rosseti,Feminino,4,0.003336,0.0,0.082245
+Ana P. Appel,Feminino,4,0.003336,0.0,0.045
+Victor F. Cavalcante,Masculino,4,0.003336,0.0,0.045
+C.D.M. Berkenbrock,Masculino,4,0.003336,0.0,0.003336
+A.P.C. Silva,Masculino,4,0.003336,0.0,0.003336
+C.M. Hirata,Masculino,4,0.003336,0.0,0.003336
+C.T. Fernandes,Masculino,4,0.003336,0.0,0.003336
+M.C. Pichiliani,Masculino,4,0.003336,0.0,0.003336
+Ricardo R. Nunes,Masculino,4,0.003336,0.000772,0.117012
+Iona Rameh,Feminino,4,0.003336,0.0,0.074712
+Gustavo C. A. Lima,Masculino,4,0.003336,0.0,0.004087
+Breno B. Fontel,Masculino,4,0.003336,0.0,0.004087
+Karen Botelho,Feminino,4,0.003336,0.0,0.105172
+Victor R. M. Carmona,Masculino,4,0.003336,0.0,0.102407
+Larisssa Cavalcante,Feminino,4,0.003336,0.0,0.00841
+Carlos E. Goncalves,Masculino,4,0.003336,1.1e-05,0.003753
+Fabio Bezerra,Masculino,4,0.003336,0.003988,0.091582
+Arthur L. Costa,Masculino,4,0.003336,0.0,0.003336
+Matheus Sampaio,Masculino,4,0.003336,0.0,0.003336
+Rogério Caetano,Masculino,4,0.003336,0.0,0.003336
+Bruno D. C. Portes,Masculino,4,0.003336,0.0,0.00841
+Ana B. A. Leite,Feminino,4,0.003336,0.0,0.00841
+Allberson Dantas,Masculino,4,0.003336,0.0,0.00841
+Raquel T. D. Paiva,Feminino,4,0.003336,1e-05,0.098735
+Pernille Bjorn,Feminino,4,0.003336,0.0,0.101996
+Anselmo P. R. Costa,Masculino,4,0.003336,0.0,0.109736
+Antonio A. Lima,Masculino,4,0.003336,0.0,0.098375
+Daniel M. Alves,Masculino,4,0.003336,0.0,0.098375
+Albert R. S. Catojo,Masculino,4,0.003336,0.0,0.098375
+Luiz P. Carvalho,Masculino,4,0.003336,0.0,0.120737
+Jose A. Suzano,Masculino,4,0.003336,0.0,0.120737
+Erica J. S. Scheffel,Feminino,4,0.003336,0.0,0.109736
+Rafael E. L. Escalfoni,Masculino,4,0.003336,2e-05,0.108497
+Andre F. E. Ferreira,Masculino,4,0.003336,0.0,0.003336
+Francisco P. A. Filho,Masculino,4,0.003336,0.0,0.003336
+Erick G. F. Gaspar,Masculino,4,0.003336,0.0,0.003336
+Marcelo M. D. Silva,Masculino,4,0.003336,0.0,0.003336
+Marco A. Graciotto,Masculino,4,0.003336,0.0,0.107955
+Jose G. P. Filho,Masculino,4,0.003336,0.000234,0.097116
+Jonas H. R. Paula,Masculino,4,0.003336,0.001003,0.083596
+Gustavo Sousa,Masculino,4,0.003336,0.0,0.003336
+João P. Holanda,Masculino,4,0.003336,0.0,0.003336
+Clever R. G. Farias,Masculino,4,0.003336,1.1e-05,0.003753
+Fabiana D. S. Cabreira,Feminino,4,0.003336,1e-06,0.003336
+Amanda M. Melo,Feminino,4,0.003336,1e-06,0.003336
+Maison Melotti,Masculino,4,0.003336,0.0,0.104993
+Ingrhid Theodoro,Feminino,4,0.003336,0.0,0.111894
+Bernardo Stearns,Masculino,4,0.003336,0.0,0.111894
+Fabio Rangel,Masculino,4,0.003336,0.0,0.111894
+Leliane N. Barros,Feminino,4,0.003336,0.0,0.102358
+Marisol S. Yucra,Feminino,4,0.003336,0.0,0.102358
+Ricardo T. Souza,Masculino,4,0.003336,0.0,0.102358
+Renata Wassermann,Feminino,4,0.003336,0.0,0.102358
+Raquel C. M. Minardi,Feminino,4,0.003336,0.0,0.05686
+Cristiana S. Silva,Feminino,4,0.003336,0.0,0.048471
+Tatiana S. Silva,Feminino,4,0.003336,0.0,0.048471
+Fernando H. Mourao,Masculino,4,0.003336,0.0,0.048471
+Jairo S. Dornelas,Masculino,4,0.003336,0.0,0.004448
+Ronnie E. S. Santos,Masculino,4,0.003336,0.0,0.004448
+Cleyton V. C. Magalhaes,Masculino,4,0.003336,0.0,0.004448
+Marcio J. Mantau,Masculino,4,0.003336,0.000141,0.019275
+Angela M. N. Mendonca,Feminino,4,0.003336,0.0,0.003336
+Mateus B. Machado,Masculino,4,0.003336,0.0,0.102407
+Caio V. S. Lopes,Masculino,4,0.003336,0.0,0.102407
+Claudia Pimentel,Feminino,4,0.003336,1e-06,0.014456
+Jose E. Brandao,Masculino,4,0.003336,1e-06,0.018951
+Carlos E. F. Azevedo,Masculino,4,0.003336,0.0,0.003336
+Marcio R. Teixeira,Masculino,4,0.003336,0.0,0.003336
+George A. F. Gomes,Masculino,4,0.003336,0.0,0.003336
+Cleyton C. Trindade,Masculino,4,0.003336,0.0,0.07718
+Yuri A. M. Barbosa,Masculino,4,0.003336,0.0,0.07718
+Alan K. O. Moraes,Masculino,4,0.003336,0.0,0.07718
+Jones O. Albuquerque,Masculino,4,0.003336,0.0,0.07718
+Israely Lima,Feminino,4,0.003336,0.0,0.088653
+Jorge L. Sousa,Masculino,4,0.003336,0.0,0.088653
+Marina Rocha,Feminino,4,0.003336,0.0,0.088653
+Laura S. Garcia,Feminino,4,0.003336,6e-06,0.003336
+Daniel M. A. Silva,Masculino,4,0.003336,1.3e-05,0.02069
+Deivid F. Sartori,Masculino,4,0.003336,1.3e-05,0.02069
+Manoel Miranda,Masculino,4,0.003336,0.0,0.062345
+Lucas Bastos,Masculino,4,0.003336,0.0,0.062345
+Maria L. B. Villela,Feminino,4,0.003336,0.0,0.05686
+Diego A. F. Barros,Masculino,4,0.003336,0.0,0.05686
+Jose F. M. Netto,Masculino,4,0.003336,0.01988,0.117906
+Dhanielly P. R. Lima,Feminino,4,0.003336,0.01988,0.117906
+Antonio H. G. Leite,Masculino,4,0.003336,0.0,0.062345
+Luiz P. D. Correa,Masculino,4,0.003336,0.0,0.062345
+Pedro O. V. Melo,Masculino,4,0.003336,0.0,0.062345
+Welligton Abreu,Masculino,4,0.003336,0.0,0.00841
+Alan Gomes,Masculino,4,0.003336,0.0,0.00841
+Luana A. Santos,Feminino,4,0.003336,0.0,0.070821
+Silvia T. Frizzarini,Feminino,4,0.003336,0.0,0.018951
+Roberta Salim,Feminino,4,0.003336,0.0,0.123355
+Patricia B. S. Bassani,Feminino,4,0.003336,8e-06,0.004087
+Livian Pascoal,Feminino,4,0.003336,0.0,0.095846
+Luisa Veloso,Feminino,4,0.003336,0.0,0.095846
+Victor Lima,Masculino,4,0.003336,0.0,0.095846
+Leticia Viana,Feminino,4,0.003336,0.0,0.095846
+Diego A. S. Lisboa,Masculino,4,0.003336,0.0,0.102044
+Carla V. M. Marques,Feminino,4,0.003336,0.0,0.111692
+Carlo E. T. Oliveira,Masculino,4,0.003336,0.0,0.111692
+Eriky R. Goncalves,Masculino,4,0.003336,0.0,0.088653
+Bruno B. Lage,Masculino,4,0.003336,0.0,0.123355
+Leonardo D. P. Machado,Masculino,4,0.003336,0.0,0.019611
+Rayol M. Neto,Masculino,4,0.003336,0.0,0.005213
+Gustavo M. Neto,Masculino,4,0.003336,0.0,0.107928
+Ricardo L. Menezes,Masculino,4,0.003336,0.0,0.107928
+Elizabeth S. Furtado,Feminino,4,0.003336,6e-06,0.003336
+Raphael Saraiva,Masculino,4,0.003336,0.0,0.004087
+Rayane Santos,Feminino,4,0.003336,0.0,0.004087
+Jorge A. P. Junior,Masculino,4,0.003336,0.0,0.070821
+Yuri A. C. Sousa,Masculino,4,0.003336,0.0,0.070821
+Fabio E. W. Wai,Masculino,4,0.003336,0.0,0.070821
+Pedro M. Bernardo,Masculino,4,0.003336,0.0,0.048471
+Evandrino G. Barros,Masculino,4,0.003336,0.0,0.048471
+Eduardo R. Pinto,Masculino,4,0.003336,0.0,0.07718
+Lucas R. B. Schmitz,Masculino,4,0.003336,0.0,0.07718
+Apoena J. N. Avelar,Feminino,4,0.003336,0.0,0.100246
+Lucas A. S. Ferreira,Masculino,4,0.003336,0.0,0.100246
+Lucas M. S. Jesus,Masculino,4,0.003336,0.0,0.100246
+Juarez B. Silva,Masculino,4,0.003336,0.0,0.003336
+Joao B. M. Alves,Masculino,4,0.003336,0.0,0.003336
+Mariana Dos Santos,Feminino,4,0.003336,0.0,0.018951
+Luis F. M. P. Maia,Masculino,4,0.003336,0.0,0.118552
+Jose P. S. Simao,Masculino,4,0.003336,0.0,0.003336
+Joao P. C. Lima,Masculino,4,0.003336,0.0,0.003336
+Hamadou Saliah-Hassane,Masculino,4,0.003336,0.0,0.003336
+Eber A. Schmitz,Masculino,4,0.003336,0.001999,0.096208
+Marcela M. M. Yagui,Feminino,4,0.003336,0.0,0.118552
+Fabio F. S. Junior,Masculino,4,0.003336,0.0,0.09574
+Leonardo Gargano,Masculino,4,0.003336,0.001002,0.11089
+Denise R. A. Carvalho,Feminino,4,0.003336,0.0,0.0974
+Kauan D. B. Sousa,Masculino,4,0.003336,0.0,0.0974
+Marcos G. M. Mauricio,Masculino,4,0.003336,0.0,0.0974
+Alexandre M. Arruda,Masculino,4,0.003336,0.0,0.0974
+Daniel C. Paiva,Masculino,4,0.003336,8.2e-05,0.007208
+Daniel Zandoná,Masculino,4,0.003336,0.0,0.124456
+Naiele Fagundes,Feminino,4,0.003336,0.0,0.113183
+Raiane Silveira,Feminino,4,0.003336,0.0,0.113183
+Tiago Flores,Masculino,4,0.003336,0.0,0.113183
+Lian Silva,Masculino,4,0.003336,0.0,0.113183
+Cristiane Ellwanger,Feminino,3,0.002502,0.0,0.002502
+Leno R. Martins,Masculino,3,0.002502,0.0,0.002502
+Walkir A. T. Brito,Masculino,3,0.002502,0.0,0.108551
+Claudene O. Goncalves,Feminino,3,0.002502,0.0,0.003336
+Lynn Alves,Feminino,3,0.002502,0.0,0.103908
+Larissa R. Santos,Feminino,3,0.002502,0.0,0.117938
+Claudio Farias,Masculino,3,0.002502,0.0,0.117938
+Henrique Serdeira,Masculino,3,0.002502,0.0,0.117938
+Andreza H. Magalhães,Feminino,3,0.002502,0.0,0.110352
+Valéria M. Pinheiro,Feminino,3,0.002502,0.0,0.110352
+Prasun Dewan,Masculino,3,0.002502,3e-06,0.014935
+Autran Macedo,Masculino,3,0.002502,0.0,0.082307
+Ilmerio R. Silva,Masculino,3,0.002502,0.0,0.082307
+K. J. A. Serique,Masculino,3,0.002502,0.0,0.002502
+J. L. C. Santos,Masculino,3,0.002502,0.0,0.002502
+F. S. Costa,Masculino,3,0.002502,0.0,0.002502
+J. M. F. Maia,Masculino,3,0.002502,0.0,0.002502
+Weverton Cordeiro,Masculino,3,0.002502,0.0,0.091427
+Alesandro S. Santos,Masculino,3,0.002502,0.0,0.066548
+Raphael P. Oliveira,Masculino,3,0.002502,0.0,0.066548
+Marianne Silva,Feminino,3,0.002502,0.0,0.066548
+Filipe A. Garrido,Masculino,3,0.002502,0.0,0.002979
+Beatriz B. Rego,Feminino,3,0.002502,0.0,0.002979
+Jean C. S. Rosa,Masculino,3,0.002502,0.0,0.002979
+Arley S. Ribeiro,Masculino,3,0.002502,0.0,0.048465
+Roberta Bordalo,Feminino,3,0.002502,0.0,0.111548
+Marinalva D. Soares,Feminino,3,0.002502,0.0,0.002502
+Rafael Santos,Masculino,3,0.002502,0.0,0.002502
+Nandamudi Vijaykumar,Masculino,3,0.002502,0.0,0.002502
+Henrique Ellwanger,Masculino,3,0.002502,0.0,0.002502
+Vanessa S. Paixão-Cortes,Feminino,3,0.002502,0.0,0.002502
+Régio P. Silva,Masculino,3,0.002502,0.0,0.002502
+Anderson P. Lins,Masculino,3,0.002502,0.0,0.003336
+Igor M. M. Rocha,Masculino,3,0.002502,0.0,0.003336
+Robson Oliveira,Masculino,3,0.002502,0.0,0.077166
+Guilherme D. G. Toledo,Masculino,3,0.002502,0.0,0.100223
+Diego L. Bastos,Masculino,3,0.002502,0.0,0.100223
+Marcio G. P. Rosa,Masculino,3,0.002502,0.0,0.115543
+Sionise Gomes,Feminino,3,0.002502,0.0,0.117076
+Alberto N. C. Jr,Masculino,3,0.002502,0.0,0.117076
+Raphael O. Santos,Masculino,3,0.002502,0.0,0.002502
+Mariana F. V. Silva,Feminino,3,0.002502,0.0,0.003336
+Emelyn C. Freire,Feminino,3,0.002502,0.0,0.004547
+Karolayne S. Azevedo,Feminino,3,0.002502,0.0,0.004547
+Marcelo A. C. Fernandes,Masculino,3,0.002502,0.0,0.004547
+Vidal D. Fontoura,Masculino,3,0.002502,0.0,0.107767
+Yukio Shigihara,Masculino,3,0.002502,0.0,0.004504
+Érica Mourão,Feminino,3,0.002502,0.0,0.004504
+Lucas Sauter,Masculino,3,0.002502,0.0,0.003715
+Luiz A. C. Junio,Masculino,3,0.002502,0.0,0.048465
+Thayane P. Duarte,Feminino,3,0.002502,0.0,0.048465
+Lucas S. Viana,Masculino,3,0.002502,0.0,0.048465
+Viviane A. Silva,Feminino,3,0.002502,0.0,0.003715
+Tayanne C. Silva,Feminino,3,0.002502,0.0,0.003336
+Elizangela S. Miguel,Feminino,3,0.002502,0.0,0.003336
+Rafael R. Morais,Masculino,3,0.002502,0.0,0.018793
+Rogers Rocha,Masculino,3,0.002502,0.0,0.004106
+Lais P. V. Vossen,Feminino,3,0.002502,0.0,0.014364
+Luciana B. Frigo,Feminino,3,0.002502,0.0,0.014364
+Vitor Q. Campos,Masculino,3,0.002502,0.0,0.100223
+Cristianna M. Ferran,Feminino,3,0.002502,0.0,0.108551
+Alexandre F. Costa,Masculino,3,0.002502,0.0,0.108551
+Marcio Ferreira,Masculino,3,0.002502,0.0,0.115481
+Eduardo Velloso,Masculino,3,0.002502,0.0,0.115481
+Luciano Dutra,Masculino,3,0.002502,0.0,0.002502
+Jordan Queiroz,Masculino,3,0.002502,0.0,0.11024
+Samantha Correa,Feminino,3,0.002502,0.0,0.11024
+Eduardo Feitosa,Masculino,3,0.002502,0.0,0.11024
+Josué V. D. M. Júnior,Masculino,3,0.002502,0.0,0.004504
+Eduardo G. Oliveira,Masculino,3,0.002502,0.0,0.100995
+Claudia Mottas,Feminino,3,0.002502,0.0,0.100995
+Marcella Z. Amaral,Feminino,3,0.002502,0.0,0.003715
+Airton Y. C. Toyofuku,Masculino,3,0.002502,0.0,0.003336
+Erica Vilela,Feminino,3,0.002502,0.0,0.003336
+Jessica I. Pegorini,Feminino,3,0.002502,0.0,0.002502
+Alinne C. C. Souza,Feminino,3,0.002502,0.0,0.002502
+Francisco C. M. Souza,Masculino,3,0.002502,0.0,0.002502
+Luiz C. P. Albini,Masculino,3,0.002502,0.0,0.002502
+Paulo Ferreira,Masculino,3,0.002502,0.0,0.111347
+Adrianne P. V. D. Andrade,Feminino,3,0.002502,0.0,0.004504
+Davi Viana,Masculino,3,0.002502,0.0,0.103783
+Gleison Santos,Masculino,3,0.002502,0.0,0.103783
+Rafael L. Tavares,Masculino,3,0.002502,0.0,0.110465
+Zairo Benjo,Masculino,3,0.002502,0.0,0.091427
+Débora D. C. Leal,Feminino,3,0.002502,0.0,0.091427
+Maximilian Krueger,Masculino,3,0.002502,0.0,0.091427
+Leandro D. Calvao,Masculino,3,0.002502,0.0,0.11579
+Luiz A. F. Santos,Masculino,3,0.002502,0.0,0.102334
+Rodrigo Campiolo,Masculino,3,0.002502,0.0,0.102334
+Neno Albernaz,Masculino,3,0.002502,0.0,0.101804
+Mauro Amazonas,Masculino,3,0.002502,0.0,0.11055
+Fabio Fabris,Masculino,3,0.002502,0.0,0.002502
+Magnos Martinello,Masculino,3,0.002502,0.0,0.002502
+Cesar Marcondes,Masculino,3,0.002502,0.0,0.002502
+Joao C. Goncalves,Masculino,3,0.002502,0.0,0.111663
+Aloysio C. P. Pedroza,Masculino,3,0.002502,0.0,0.092761
+Jean-Pierre Courtiat,Masculino,3,0.002502,0.0,0.092761
+Maria T. Gouvea,Feminino,3,0.002502,0.0,0.126866
+Jean Zahn,Masculino,3,0.002502,0.0,0.004504
+Daniela Trevisan,Feminino,3,0.002502,0.0,0.004504
+Clara A. B. Fernandes,Feminino,3,0.002502,0.0,0.003715
+Marco S. S. Jardim,Masculino,3,0.002502,0.0,0.003715
+Hildon L. Paula,Masculino,3,0.002502,0.0,0.004906
+Andreza Valgas,Feminino,3,0.002502,0.0,0.002502
+Jorge Barbosa,Masculino,3,0.002502,0.0,0.003406
+Sergio C. C. S. Pinto,Masculino,3,0.002502,0.0,0.003406
+Daniel M. Batista,Masculino,3,0.002502,0.0,0.102334
+Hiran N. M. Ferreira,Masculino,3,0.002502,0.0,0.002502
+Rafael D. Araujo,Masculino,3,0.002502,0.0,0.002502
+Sandra A. Amo,Feminino,3,0.002502,0.0,0.002502
+Renan G. Cattelan,Masculino,3,0.002502,0.0,0.002502
+Rafael Souza,Masculino,3,0.002502,0.0,0.091505
+Luciana A. Almeida,Feminino,3,0.002502,0.0,0.091447
+Any Batista,Feminino,3,0.002502,0.0,0.091447
+Leticia C. Passos,Feminino,3,0.002502,0.0,0.002502
+Lucas G. C. Evangelista,Masculino,3,0.002502,0.0,0.002502
+Isadora C. Rodrigues,Feminino,3,0.002502,0.0,0.061943
+Bernardo L. Queiroz,Masculino,3,0.002502,0.0,0.061943
+Antonilson S. Alcantara,Masculino,3,0.002502,0.0,0.080037
+Sandro R. B. Oliveira,Masculino,3,0.002502,0.0,0.080037
+Francila Weidt,Feminino,3,0.002502,0.0,0.12276
+Max F. S. S. Cravo,Masculino,3,0.002502,0.0,0.113959
+Romeu A. Sousa,Masculino,3,0.002502,0.0,0.113959
+Erick Silveira,Masculino,3,0.002502,0.0,0.018793
+Maicon H. L. F. S. Barros,Masculino,3,0.002502,0.0,0.066548
+Maria E. F. Mello,Feminino,3,0.002502,0.0,0.066548
+Patricia T. Endo,Feminino,3,0.002502,0.0,0.066548
+Avelino Ferreira,Masculino,3,0.002502,0.0,0.107713
+Alvaro Penna,Masculino,3,0.002502,0.0,0.107713
+Viviane Azevedo,Feminino,3,0.002502,0.0,0.107713
+Reinaldo Cardoso,Masculino,3,0.002502,0.0,0.101972
+Flavio Seixas,Masculino,3,0.002502,0.0,0.111548
+Ana P. Pimentel,Feminino,3,0.002502,0.0,0.100995
+Vaninha V. Santos,Feminino,3,0.002502,0.0,0.11429
+Wendy S. Cataldo,Feminino,3,0.002502,0.0,0.098712
+Credine S. Menezes,Feminino,3,0.002502,0.001001,0.080544
+Ivante Z. Siple,Feminino,3,0.002502,0.0,0.019441
+Edilson H. Silva,Masculino,3,0.002502,0.0,0.018793
+Leandro O. C. Vieira,Masculino,3,0.002502,0.0,0.018793
+Lorena Tomagnini,Feminino,3,0.002502,0.0,0.052516
+Felipe Carmo,Masculino,3,0.002502,0.0,0.002502
+Lesandro Ponciano,Masculino,3,0.002502,0.0,0.002502
+Luis Goes,Masculino,3,0.002502,0.0,0.002502
+Fabio S. Silva,Masculino,3,0.002502,0.0,0.002502
+Fabiano B. N. Filho,Masculino,3,0.002502,0.0,0.002502
+Nicole V. L. D. Costa,Feminino,3,0.002502,0.0,0.002502
+Gabriella M. Staudt,Feminino,3,0.002502,0.0,0.002502
+K. Vega,Feminino,3,0.002502,0.0,0.108144
+A. Pereira,Masculino,3,0.002502,0.0,0.108144
+G. Robichez,Masculino,3,0.002502,0.0,0.108144
+Denise P. N. Machado,Feminino,3,0.002502,0.0,0.10847
+Rafael A. Ribeiro,Masculino,3,0.002502,0.0,0.077166
+Paula C. Ribeiro,Feminino,3,0.002502,0.0,0.102796
+Jefferson O. Silva,Masculino,3,0.002502,0.0,0.107767
+Greis F. M. Silva,Feminino,3,0.002502,0.0,0.102796
+Joao F. S. Silva,Masculino,3,0.002502,0.0,0.082089
+Mariana Peixoto,Feminino,3,0.002502,0.0,0.082089
+Marcos Siqueira,Masculino,3,0.002502,0.0,0.098667
+Erika C. M. Bueno,Feminino,3,0.002502,0.0,0.098353
+Thiago M. Rocha,Masculino,3,0.002502,0.0,0.002502
+Francis Santos,Masculino,3,0.002502,0.0,0.048465
+Willian C. Donega,Masculino,3,0.002502,0.0,0.105223
+Cassia Nino,Feminino,3,0.002502,0.0,0.003406
+Polyana G. Finamor,Feminino,3,0.002502,0.0,0.098353
+Gustavo Pinto,Masculino,3,0.002502,0.0,0.091582
+Simone F. Tonhao,Feminino,3,0.002502,0.0,0.102552
+Williamson Silva,Masculino,3,0.002502,0.0,0.102552
+Thelma Colanzi,Feminino,3,0.002502,0.0,0.102552
+Priscilla Braz,Feminino,3,0.002502,0.0,0.102796
+Eduardo R. Silva,Masculino,3,0.002502,0.001678,0.108307
+Willyan M. Ferreira,Masculino,3,0.002502,0.0,0.068401
+Luiz H. C. Merschmann,Masculino,3,0.002502,0.0,0.068401
+Bruno S. Nascimento,Masculino,3,0.002502,0.0,0.113659
+Diana C. A. C.,Feminino,3,0.002502,0.0,0.116508
+Leila M. Antunes,Feminino,3,0.002502,0.0,0.116508
+Anrafel F. Pereira,Masculino,3,0.002502,0.0,0.100223
+Victor Raft,Masculino,3,0.002502,0.0,0.104967
+Queilane Cardoso,Feminino,3,0.002502,0.0,0.003336
+Flavio E. O. E. Silva,Masculino,3,0.002502,0.001999,0.083596
+Karine A. Cordova,Feminino,3,0.002502,0.0,0.014364
+Lucas Hanauer,Masculino,3,0.002502,0.0,0.117938
+Fabricio S. Soares,Masculino,3,0.002502,0.0,0.014935
+Carlos H. Q. Forster,Masculino,3,0.002502,0.0,0.014935
+Milena C. Silva,Feminino,3,0.002502,0.0,0.002669
+Lucie A. Grillo,Feminino,3,0.002502,0.0,0.002669
+Guilherme Miranda,Masculino,3,0.002502,0.0,0.095129
+Felipe L. Silva,Masculino,3,0.002502,0.0,0.003559
+Roberto Araujo,Masculino,3,0.002502,0.0,0.003559
+Nelson N. Sampaio,Masculino,3,0.002502,0.0,0.003559
+Roberto S. Rocha,Masculino,3,0.002502,0.0,0.002502
+Livia C. Degrossi,Feminino,3,0.002502,0.0,0.002502
+Flavio E. A. Horita,Masculino,3,0.002502,0.0,0.002502
+Joao P. Albuquerque,Masculino,3,0.002502,0.0,0.002502
+Marlon F. Antonio,Masculino,3,0.002502,0.0,0.102698
+Vitor Bremgartner,Masculino,3,0.002502,0.0,0.113929
+Thaynara A. Cardoso,Feminino,3,0.002502,0.0,0.098353
+Wellynton Diniz,Masculino,3,0.002502,0.0,0.120267
+Cesar Franca,Masculino,3,0.002502,0.0,0.120267
+Rodrigo F. Macedo,Masculino,3,0.002502,0.0,0.003336
+Ana L. Gomes,Feminino,3,0.002502,0.0,0.003336
+David C. Maia,Masculino,3,0.002502,0.0,0.003336
+Romualdo Azevedo,Masculino,3,0.002502,0.003335,0.114019
+Evandro A. Branco,Masculino,3,0.002502,0.0,0.110127
+Ricardo Zylbergeld,Masculino,3,0.002502,0.0,0.110127
+Victor R. O. Nunes,Masculino,3,0.002502,0.0,0.104967
+Jessica Castro,Feminino,3,0.002502,0.0,0.002502
+Iury Araujo,Masculino,3,0.002502,0.0,0.002502
+Fernando Matos,Masculino,3,0.002502,0.0,0.002502
+Eudisley Anjos,Masculino,3,0.002502,0.0,0.002502
+Paulo B. Costa,Masculino,3,0.002502,0.0,0.095634
+Lucas V. Ribeiro,Masculino,3,0.002502,0.0,0.095634
+Ivanete Z. Siple,Feminino,3,0.002502,0.0,0.019441
+Francisco C. D. M. B. Oliveira,Masculino,3,0.002502,0.000124,0.009846
+Lucas S. Oliveira,Masculino,3,0.002502,3e-06,0.002502
+Fernando Prata,Masculino,3,0.002502,0.0,0.109099
+Thalita Moraes,Feminino,3,0.002502,0.0,0.109099
+Helo Petry,Masculino,3,0.002502,0.0,0.102772
+Leonam C. D. Oliveira,Masculino,3,0.002502,0.0,0.072459
+Gabriela C. D. Santos,Feminino,3,0.002502,0.0,0.072459
+Andrey R. Pimentel,Masculino,3,0.002502,0.0,0.072459
+Rafael Esteves,Masculino,3,0.002502,0.0,0.091427
+Breno Franca,Masculino,3,0.002502,0.0,0.091427
+Ricardo A. N. F. Severo,Masculino,3,0.002502,0.0,0.004504
+Christopher V. Lima,Masculino,3,0.002502,0.0,0.002502
+Roberto Willrich,Masculino,3,0.002502,0.0,0.002502
+Roberta Lima-Gomes,Feminino,3,0.002502,0.0,0.002502
+Guillermo J. Hoyos-Rivera,Masculino,3,0.002502,0.0,0.002502
+Eliane M. Bortoli,Feminino,2,0.001668,0.0,0.00522
+Claudia Barsottini,Feminino,2,0.001668,0.0,0.07028
+Cleo Billa,Masculino,2,0.001668,0.0,0.07028
+Andréa S. Bordin,Feminino,2,0.001668,0.0,0.091408
+Edna D. Canedo,Feminino,2,0.001668,0.0,0.001668
+Rafael Pagliosa,Masculino,2,0.001668,0.0,0.001668
+Heloise A. T. Bedin,Feminino,2,0.001668,0.0,0.001668
+Jose O. Gomes,Masculino,2,0.001668,0.0,0.107686
+Renata G. Machado,Feminino,2,0.001668,0.0,0.107686
+Sidarta Varela,Masculino,2,0.001668,0.0,0.082073
+Alison R. Panisson,Masculino,2,0.001668,0.0,0.001668
+Stefan Sarkadi,Masculino,2,0.001668,0.0,0.001668
+Karolina I. Azevedo,Feminino,2,0.001668,0.0,0.099393
+Sandra A. Siebra,Feminino,2,0.001668,0.0,0.088075
+Marcos Kalinowski,Masculino,2,0.001668,0.0,0.107686
+Jean P. Courtiat,Masculino,2,0.001668,0.0,0.092741
+Guillermo J. H. Rivera,Masculino,2,0.001668,0.0,0.092741
+Fabricio Enembreck,Masculino,2,0.001668,0.0,0.00522
+Mirella Moro,Feminino,2,0.001668,0.0,0.099393
+Roberto A. Bittencourt,Masculino,2,0.001668,0.0,0.001668
+Marilton M. Cerqueira,Masculino,2,0.001668,0.0,0.001668
+Douglas C. Cerqueira,Masculino,2,0.001668,0.0,0.001668
+Israel S. Aguiar,Masculino,2,0.001668,0.0,0.001877
+Marcelo S. Amaral,Masculino,2,0.001668,0.0,0.001877
+Marcelo S. Hounsell,Masculino,2,0.001668,0.0,0.018638
+Claudinei Dias,Masculino,2,0.001668,0.0,0.018638
+Celso A. Santos,Masculino,2,0.001668,0.0,0.092741
+Juan X. Calles,Masculino,2,0.001668,0.0,0.092741
+George H. Santos,Masculino,2,0.001668,0.0,0.018638
+David B. Ramos,Masculino,2,0.001668,0.0,0.001668
+Elaine H. T. Oliveira,Feminino,2,0.001668,0.0,0.001668
+Ilmara M. M. Ramos,Feminino,2,0.001668,0.0,0.001668
+Ramon R. M. Vieira,Masculino,2,0.001668,0.0,0.080529
+Narallynne Araujo,Feminino,2,0.001668,0.0,0.094094
+Patricia Z. Lima,Feminino,2,0.001668,0.0,0.111837
+Vania M. F. Dias,Feminino,2,0.001668,0.0,0.001668
+Jussara Rodrigues,Feminino,2,0.001668,0.0,0.001668
+Helena Araujo,Feminino,2,0.001668,0.0,0.001668
+Muriel F. Franco,Masculino,2,0.001668,0.0,0.001668
+Sílvio C. Cazella,Masculino,2,0.001668,0.0,0.001668
+Fernando B. Rosito,Masculino,2,0.001668,0.0,0.001668
+Tanya A. Felipe,Feminino,2,0.001668,0.0,0.002224
+Marcia S. Lima,Feminino,2,0.001668,0.0,0.113719
+Macio J. Mantau,Masculino,2,0.001668,0.0,0.018638
+Nayat Sanchez-Pi,Feminino,2,0.001668,0.0,0.001668
+Luis Marti,Masculino,2,0.001668,0.0,0.001668
+Daniel Cinalli,Masculino,2,0.001668,0.0,0.001668
+Simone D. Barbosa,Feminino,2,0.001668,0.0,0.102772
+Marcus F. C. Alencar,Masculino,2,0.001668,0.0,0.102772
+Pedro N. D. S. Moura,Masculino,2,0.001668,0.0,0.108524
+Cléo C. Peixoto,Masculino,2,0.001668,0.0,0.108524
+Miguel F. S. Ferreira,Masculino,2,0.001668,0.0,0.091427
+Romis Attux,Masculino,2,0.001668,0.0,0.001668
+Leonardo M. Barbosa,Masculino,2,0.001668,0.0,0.001668
+Mateus V. S. Melo,Masculino,2,0.001668,0.0,0.07961
+Marcus V. M. Q. Jr.,Masculino,2,0.001668,0.0,0.002224
+Vanessa T. Nunes,Feminino,2,0.001668,0.0,0.11236
+Marta C. Rosatelli,Feminino,2,0.001668,0.0,0.003003
+Helder Coelho,Masculino,2,0.001668,0.0,0.001668
+Jaime S. Sichman,Masculino,2,0.001668,0.0,0.001668
+Diana F. Adamatti,Feminino,2,0.001668,0.0,0.001668
+Victorio A. Carvalho,Masculino,2,0.001668,0.0,0.001668
+Priscila C. Scovino,Feminino,2,0.001668,0.0,0.001668
+Morganna C. Diniz,Feminino,2,0.001668,0.0,0.104058
+Edmilson B. Rocha,Masculino,2,0.001668,0.0,0.104058
+Luziane F. Mendonca,Feminino,2,0.001668,0.0,0.111837
+Linnyer B. Ruiz,Feminino,2,0.001668,0.0,0.001668
+Thais R. M. B. Silva,Feminino,2,0.001668,0.0,0.001668
+Lucas A. S. Merlo,Masculino,2,0.001668,0.0,0.097072
+Ricardo A. Falbo,Masculino,2,0.001668,0.0,0.001668
+Bruno N. Machado,Masculino,2,0.001668,0.0,0.001668
+Cassiano L. C. Santos,Masculino,2,0.001668,0.0,0.001668
+Aline A. G. Samim,Feminino,2,0.001668,0.0,0.001668
+Cleber J. L. Santana,Masculino,2,0.001668,0.0,0.001668
+Leandro Andrade,Masculino,2,0.001668,0.0,0.001668
+Tamires L. Coutinho,Feminino,2,0.001668,0.0,0.001668
+Eric C. Silveira,Masculino,2,0.001668,0.0,0.018638
+Juliana M. O. Santos,Feminino,2,0.001668,0.0,0.002606
+Wladimir A. P. Neves,Masculino,2,0.001668,0.0,0.119305
+Leonardo L. D. Carvalho,Masculino,2,0.001668,0.0,0.001668
+Cláudia B. Berti,Feminino,2,0.001668,0.0,0.001668
+João V. Almeida,Masculino,2,0.001668,0.0,0.001668
+Natalia S. Santos,Feminino,2,0.001668,0.0,0.056845
+Alan Godoy,Masculino,2,0.001668,0.0,0.001668
+Nilmara Salgado,Feminino,2,0.001668,0.0,0.09953
+Ludmilla F. O. Galvao,Feminino,2,0.001668,0.0,0.002224
+Tanya A. F. Souza,Feminino,2,0.001668,0.0,0.002224
+Lucineide R. Silva,Feminino,2,0.001668,0.0,0.002224
+Ana C. Maciel,Feminino,2,0.001668,0.0,0.102528
+Joseane P. Santos,Feminino,2,0.001668,0.0,0.087505
+Raphael C. Freitas,Masculino,2,0.001668,0.0,0.087505
+Washington J. S. F. Rocha,Masculino,2,0.001668,0.0,0.003144
+Joao P. J. Peixoto,Masculino,2,0.001668,0.0,0.003144
+Antonio A. F. Loureiro,Masculino,2,0.001668,0.0,0.001668
+Antonio A. A. Rocha,Masculino,2,0.001668,1e-06,0.001668
+Matheus G. Pires,Masculino,2,0.001668,0.0,0.002919
+Luiz F. Reinoso,Masculino,2,0.001668,0.0,0.080514
+Renan F. Almeida,Masculino,2,0.001668,0.0,0.080514
+Andrei A. Villa,Masculino,2,0.001668,0.0,0.018638
+Jefferson E. Simoes,Masculino,2,0.001668,0.0,0.098331
+Luis G. Almeida,Masculino,2,0.001668,0.0,0.098331
+Marcelo W. Barbosa,Masculino,2,0.001668,0.0,0.052509
+Josiane M. P. Ferreira,Feminino,2,0.001668,0.0,0.005873
+Tiago N. Veloso,Masculino,2,0.001668,0.0,0.106023
+Licia C. Nascimento,Feminino,2,0.001668,0.0,0.106023
+Jeane S. F. Teixeira,Feminino,2,0.001668,0.0,0.014008
+Eveline J. V. Sa,Feminino,2,0.001668,0.0,0.014008
+Victor J. Salles,Masculino,2,0.001668,0.0,0.056845
+Rodrigo F. Silva,Masculino,2,0.001668,0.0,0.056845
+Miriam O. Santos,Feminino,2,0.001668,0.0,0.092761
+Arthur G. B. C. Urpia,Masculino,2,0.001668,0.0,0.001668
+Nelson N. T. Junior,Masculino,2,0.001668,0.0,0.001668
+Amanda C. Teixeira,Feminino,2,0.001668,0.0,0.001668
+Paulo S. M. Santos,Masculino,2,0.001668,0.0,0.100572
+Douglas M. Silva,Masculino,2,0.001668,0.0,0.109072
+Renato A. O. Fogaca,Masculino,2,0.001668,0.0,0.005311
+Lennon V. A. Dias,Masculino,2,0.001668,0.0,0.005311
+Vinicius C. Pereira,Masculino,2,0.001668,0.0,0.094176
+Mateus S. Monteiro,Masculino,2,0.001668,0.0,0.094176
+Luis Santos,Masculino,2,0.001668,0.0,0.100199
+Debora A. Santos,Feminino,2,0.001668,0.0,0.002606
+André A. D. S. Neto,Masculino,2,0.001668,0.0,0.07961
+Victor M. O. Pereira,Masculino,2,0.001668,0.0,0.052509
+Varley S. D. Sá,Masculino,2,0.001668,0.0,0.001668
+Kairo H. A. Tavares,Masculino,2,0.001668,0.0,0.070797
+Liadina C. Lima,Feminino,2,0.001668,0.0,0.002224
+Nathalino P. Britto,Masculino,2,0.001668,0.0,0.002224
+Neliane R. M. Aquino,Feminino,2,0.001668,0.0,0.001668
+Gilvânia E. C. Frazão,Feminino,2,0.001668,0.0,0.001668
+Fernanda B. Viégas,Feminino,2,0.001668,0.0,0.098331
+Eliel R. D. Silva,Masculino,2,0.001668,0.0,0.111837
+Yan H. Kabuki,Masculino,2,0.001668,0.0,0.089608
+Tainan G. F. Souza,Masculino,2,0.001668,0.0,0.089608
+Marcelo K. Nishi,Masculino,2,0.001668,0.0,0.102674
+Felipe Fonseca,Masculino,2,0.001668,0.0,0.103758
+Carina F. Alves,Feminino,2,0.001668,0.0,0.001668
+Raphael L. B. Barros,Masculino,2,0.001668,0.0,0.001668
+Raquel L. Santos,Feminino,2,0.001668,0.0,0.056845
+Bernardo A. M. Mattos,Masculino,2,0.001668,0.0,0.056845
+Joanna L. Q. Marques,Feminino,2,0.001668,0.0,0.003003
+Talita L. Menezes,Feminino,2,0.001668,0.0,0.003003
+Marilia S. Mendes,Feminino,2,0.001668,0.0,0.002224
+Rafael M. Feitosa,Masculino,2,0.001668,0.0,0.091408
+Danilo B. Lima,Masculino,2,0.001668,0.0,0.083516
+Luis T. O. Camargo,Masculino,2,0.001668,0.0,0.083516
+Giovana B. R. Linhares,Feminino,2,0.001668,0.0,0.10774
+Livia C. Gouvea,Feminino,2,0.001668,0.0,0.113689
+Gustavo Carvalho,Masculino,2,0.001668,0.0,0.108117
+Pedro J. S. Carneiro,Masculino,2,0.001668,0.0,0.077152
+Geber L. Ramalho,Masculino,2,0.001668,0.0,0.001668
+Janisson G. Souza,Masculino,2,0.001668,0.0,0.002502
+Methanias C. Junior,Masculino,2,0.001668,0.0,0.002502
+Jose C. D. Arco,Masculino,2,0.001668,0.0,0.102358
+Albert Moreira,Masculino,2,0.001668,0.0,0.102358
+Tania Fraga,Feminino,2,0.001668,0.0,0.014837
+Markus Endler,Masculino,2,0.001668,1e-06,0.001668
+Bruno Cavalheiro,Masculino,2,0.001668,0.0,0.113124
+Dariane Abich,Feminino,2,0.001668,0.0,0.113124
+Marcio P. Lima,Masculino,2,0.001668,0.0,0.100199
+Aline M. Marques,Feminino,2,0.001668,0.0,0.104133
+Bruno Merlin,Masculino,2,0.001668,0.001001,0.091427
+Paulo S. S. Souza,Masculino,2,0.001668,0.0,0.001668
+Carolina Toscani,Feminino,2,0.001668,0.0,0.109931
+Marcus V. A. B. Matos,Masculino,2,0.001668,0.0,0.001668
+Simone C. Santos,Feminino,2,0.001668,0.0,0.001668
+Esdras L. B. Jr.,Masculino,2,0.001668,0.0,0.001668
+Alexandre T. R. Silva,Masculino,2,0.001668,1e-06,0.001668
+Maira G. Bayser,Feminino,2,0.001668,0.0,0.088835
+Thiago M. R. Ribeiro,Masculino,2,0.001668,0.0,0.088835
+Denilson C. Oliveira,Masculino,2,0.001668,0.0,0.002224
+Vagner Sacramento,Masculino,2,0.001668,0.0,0.001668
+Fabio M. Costa,Masculino,2,0.001668,0.0,0.001668
+Lucas L. Provensi,Masculino,2,0.001668,0.0,0.001668
+Diogo Krejci,Masculino,2,0.001668,0.0,0.112858
+Katia Moraes,Feminino,2,0.001668,0.0,0.104133
+Leonardo E. A. Alves,Masculino,2,0.001668,0.0,0.111837
+Ana L. T. Romano,Feminino,2,0.001668,0.0,0.003406
+Rodrigo Monteiro,Masculino,2,0.001668,0.0,0.110833
+Antonio J. Alencar,Masculino,2,0.001668,0.0,0.082955
+Cristiano Fuschilo,Masculino,2,0.001668,0.0,0.082955
+Julio C. Duarte,Masculino,2,0.001668,0.001001,0.073418
+Avanilde Kemczinski,Feminino,2,0.001668,0.0,0.014273
+Nathalia M. Nascimento,Feminino,2,0.001668,0.0,0.111004
+Washington C. P. Correia,Masculino,2,0.001668,0.0,0.096166
+Luana L. Rodrigues,Feminino,2,0.001668,0.0,0.107821
+Arthur O. Silva,Masculino,2,0.001668,0.0,0.107821
+Hedo E. S. Junior,Masculino,2,0.001668,0.0,0.107821
+Leonardo B. Genuino,Masculino,2,0.001668,0.0,0.107821
+Jaline G. Mombach,Feminino,2,0.001668,0.0,0.001668
+Wagner S. Marques,Masculino,2,0.001668,0.0,0.001668
+Stephany Vitorio,Feminino,2,0.001668,0.0,0.082042
+Mariana Maia,Feminino,2,0.001668,0.0,0.082042
+Cleyton Slaviero,Masculino,2,0.001668,0.0,0.101684
+Gabriel Balestrin,Masculino,2,0.001668,0.0,0.019275
+Thiago R. Almeida,Masculino,2,0.001668,0.0,0.100199
+Antonio Ferreira,Masculino,2,0.001668,0.0,0.091427
+Claudio Sapateiro,Masculino,2,0.001668,0.0,0.091427
+Sandy Hoffmann,Feminino,2,0.001668,0.0,0.001668
+Milena B. Pereira,Feminino,2,0.001668,0.0,0.100572
+Leornado O. Moreira,Masculino,2,0.001668,0.0,0.008073
+Francisco E. A. V. Junior,Masculino,2,0.001668,0.0,0.008073
+Claudia Lage,Feminino,2,0.001668,0.0,0.106023
+Alessandra Ponte,Feminino,2,0.001668,0.0,0.106023
+Carlos A. S. Franco,Masculino,2,0.001668,0.0,0.107686
+Marco A. Balieiro,Masculino,2,0.001668,0.0,0.091408
+Samuel F. S. Junior,Masculino,2,0.001668,0.0,0.091408
+Eduardo R. Monteiro,Masculino,2,0.001668,0.0,0.092841
+Jivago Medeiros,Masculino,2,0.001668,0.0,0.100549
+Jean M. R. Costa,Masculino,2,0.001668,0.0,0.091408
+Dilvan A. Moreira,Masculino,2,0.001668,0.0,0.001668
+Marcelo P. Guimaraes,Masculino,2,0.001668,0.0,0.001668
+Adriano Rivolli,Masculino,2,0.001668,0.0,0.001668
+Samuel Apolonio,Masculino,2,0.001668,0.0,0.1136
+Renata S. S. Guizzardi,Feminino,2,0.001668,0.0,0.096768
+Henrique P. S. Sousa,Masculino,2,0.001668,0.0,0.098331
+Ulla L. Didriksson,Feminino,2,0.001668,0.0,0.098331
+Fernanda C. S. Araujo,Feminino,2,0.001668,0.0,0.118325
+Alexandre Zanatta,Masculino,2,0.001668,0.0,0.099393
+Jessica Bosio,Feminino,2,0.001668,0.0,0.099393
+Filipe D. Coelho,Masculino,2,0.001668,0.0,0.091718
+Jason Carter,Masculino,2,0.001668,0.0,0.014273
+Eduardo Jandre,Masculino,2,0.001668,0.0,0.098219
+Lucas E. R. Freitas,Masculino,2,0.001668,0.0,0.018638
+Guilherme O. D. S. Cabrera,Masculino,2,0.001668,0.0,0.091408
+Hermes Senger,Masculino,2,0.001668,0.0,0.002502
+Rogerio A. Rondini,Masculino,2,0.001668,0.0,0.002502
+Guilherme H. Travassos,Masculino,2,0.001668,0.0,0.107686
+Samara Souza,Feminino,2,0.001668,0.0,0.091408
+Wendy Mendes,Feminino,2,0.001668,0.0,0.091408
+Gabriel F. Pereira,Masculino,2,0.001668,0.0,0.110833
+Douglas Villalba,Masculino,2,0.001668,0.0,0.119305
+Karina K. Silveira,Feminino,2,0.001668,0.0,0.099393
+Raquel D. S. Zimmer,Feminino,2,0.001668,0.0,0.099393
+Helio H. Villena,Masculino,2,0.001668,0.0,0.003406
+Gabryele A. B. Prado,Feminino,2,0.001668,0.0,0.118325
+Eduardo Figueiredo,Masculino,2,0.001668,0.0,0.056845
+Kattiana Constantino,Feminino,2,0.001668,0.0,0.056845
+Helio O. Q. Junior,Masculino,1,0.000834,0.0,0.000834
+Manoel G. M. Neto,Masculino,1,0.000834,0.0,0.000834
+Eduardo T. Carlos,Masculino,1,0.000834,0.0,0.102747
+Glauco Todesco,Masculino,1,0.000834,0.0,0.000834
+Josiel S. D. Santos,Masculino,1,0.000834,0.0,0.070786
+Bruno C. C. Costa,Masculino,1,0.000834,0.0,0.000834
+Rafael M. Alves,Masculino,1,0.000834,0.0,0.000834
+Davi C. M. Nascimento,Masculino,1,0.000834,0.0,0.100176
+Edith Z. S. Mamani,Feminino,1,0.000834,0.0,0.102285
+Eduardo A. D. Amorim,Masculino,1,0.000834,0.0,0.000834
+Cleber Zanchettin,Masculino,1,0.000834,0.0,0.000834
+Straus Michalsky,Masculino,1,0.000834,0.0,0.102285
+Cintia R. C. Silva,Feminino,1,0.000834,0.0,0.098308
+Daniel C. Biscalchin,Masculino,1,0.000834,0.0,0.070268
+Angelina Ziesemer,Feminino,1,0.000834,0.0,0.003144
+Adabriand Furtado,Masculino,1,0.000834,0.0,0.00273
+Thereza P. P. Padilha,Feminino,1,0.000834,0.0,0.000834
+Adriana N. Lacerda,Feminino,1,0.000834,0.0,0.000834
+Daniel R. Figueiredo,Masculino,1,0.000834,0.0,0.000834
+Karen S. Figueiredo,Feminino,1,0.000834,0.0,0.098308
+Celso Hiirata,Masculino,1,0.000834,0.0,0.079361
+Vinicius P. M. Freire,Masculino,1,0.000834,0.0,0.000834
+Alexandre Skyrme,Masculino,1,0.000834,0.0,0.001112
+Vinicius B. Souza,Masculino,1,0.000834,0.0,0.001501
+Frank H. Borsato,Masculino,1,0.000834,0.0,0.000834
+Ivanilton Polato,Masculino,1,0.000834,0.0,0.000834
+Rafael Prikladnicki,Masculino,1,0.000834,0.0,0.000834
+Roni C. Ferreira,Masculino,1,0.000834,0.0,0.000834
+Marco Braga,Masculino,1,0.000834,0.0,0.000834
+Esau Bermudez,Masculino,1,0.000834,0.0,0.000834
+Paulo Maciel,Masculino,1,0.000834,0.0,0.000834
+João P. V. Ramalho,Masculino,1,0.000834,0.0,0.000834
+Eduardo Todt,Masculino,1,0.000834,0.0,0.000834
+Roni A. Dall Orsoletta,Masculino,1,0.000834,0.0,0.000834
+Alberto H. Faria,Masculino,1,0.000834,0.0,0.000834
+Romulo C. Batista,Masculino,1,0.000834,0.0,0.000834
+Francisco J. S. E. Silva,Masculino,1,0.000834,0.0,0.000834
+Patrícia D. O. D. Santos,Feminino,1,0.000834,0.0,0.089664
+Giovanni E. C. Junior,Masculino,1,0.000834,0.0,0.072265
+Cristiane N. Nobre,Feminino,1,0.000834,0.0,0.000834
+Emanuel F. Duarte,Masculino,1,0.000834,0.0,0.073393
+Isabelle Q. G. D. Assis,Feminino,1,0.000834,0.0,0.072265
+Philip K. Dunker,Masculino,1,0.000834,0.0,0.102747
+Priscila F. K. Silveira,Feminino,1,0.000834,0.0,0.107794
+Josiane M. Pinheiro,Feminino,1,0.000834,0.0,0.005034
+Ana B. F. D. Luz,Feminino,1,0.000834,0.0,0.079405
+Suelyn Concentius,Feminino,1,0.000834,0.0,0.013424
+Rosimar Sobrinho,Feminino,1,0.000834,0.0,0.110184
+Edmar W. Oliveira,Masculino,1,0.000834,0.0,0.107659
+Robson D. M. Alves,Masculino,1,0.000834,0.0,0.006511
+Leonardo C. Cruz,Masculino,1,0.000834,0.0,0.000834
+Jauvane C. Oliveira,Masculino,1,0.000834,0.0,0.000834
+Andrea Teixeira,Feminino,1,0.000834,0.0,0.110184
+Paulo C. F. Sousa,Masculino,1,0.000834,0.0,0.000834
+Diana C. A. C,Feminino,1,0.000834,0.0,0.107659
+Bruno M. Pires,Masculino,1,0.000834,0.0,0.018485
+Adja F. Andrade,Feminino,1,0.000834,0.0,0.000834
+Fabiane B. V. Benitti,Feminino,1,0.000834,0.0,0.013424
+Adilson R. Silva,Masculino,1,0.000834,0.0,0.104033
+Nattan S. Lobato,Masculino,1,0.000834,0.0,0.070786
+Andre L. S. Freitas,Masculino,1,0.000834,0.0,0.001112
+Ricarth Lima,Masculino,1,0.000834,0.0,0.082026
+Thyago Tenorio,Masculino,1,0.000834,0.0,0.000834
+Sabrina S. Panceri,Feminino,1,0.000834,0.0,0.07103
+Ig I. Bittencourt,Masculino,1,0.000834,0.0,0.000834
+Juliana G. Postal,Feminino,1,0.000834,0.0,0.00439
+Jair C. Leite,Masculino,1,0.000834,0.0,0.000834
+Samanta F. Aires,Feminino,1,0.000834,0.0,0.000834
+Larissa M. C. Hirai,Feminino,1,0.000834,0.0,0.001112
+Frederico T. D. O. Silva,Masculino,1,0.000834,0.0,0.098308
+Marcelo G. Malcher,Masculino,1,0.000834,0.0,0.001112
+Leticia L. Leite,Feminino,1,0.000834,0.0,0.000834
+Gleice L. G. C. Santos,Feminino,1,0.000834,0.0,0.000834
+Joao P. S. Cunha,Masculino,1,0.000834,0.0,0.001112
+Marcelo Duduchi,Masculino,1,0.000834,0.0,0.000834
+Ronney M. Castro,Masculino,1,0.000834,0.0,0.090775
+Jesiel V. Silva,Masculino,1,0.000834,0.0,0.000834
+Delio D. A. Hofelmann,Masculino,1,0.000834,0.0,0.018485
+Fabiano G. Rocha,Masculino,1,0.000834,0.0,0.001112
+Luiz Ribeiro,Masculino,1,0.000834,0.0,0.098308
+Luciano Marin,Masculino,1,0.000834,0.0,0.000834
+Regina Marin,Feminino,1,0.000834,0.0,0.000834
+Analia Amandi,Feminino,1,0.000834,0.0,0.000834
+Airan P. Camargo,Masculino,1,0.000834,0.0,0.06543
+Alexandre M. Fava,Masculino,1,0.000834,0.0,0.018485
+Daniela Godoy,Feminino,1,0.000834,0.0,0.000834
+Domenica M. C. F. Goncalves,Feminino,1,0.000834,0.0,0.113899
+Alline Lemos,Feminino,1,0.000834,0.0,0.091389
+Carlos A. F. Gama,Masculino,1,0.000834,0.0,0.110776
+Lucas Crisostomo,Masculino,1,0.000834,0.0,0.005242
+Frederick M. C. V. Amstel,Masculino,1,0.000834,0.0,0.000834
+Matheus P. P. Feijoo,Masculino,1,0.000834,0.0,0.107794
+Marcelo Fornazin,Masculino,1,0.000834,0.0,0.093625
+Jonatas C. Santos,Masculino,1,0.000834,0.0,0.088817
+Laino Santos,Masculino,1,0.000834,0.0,0.082026
+Fernando C. D. Silva,Masculino,1,0.000834,0.0,0.098308
+Juliana Fernandes,Feminino,1,0.000834,0.0,0.089664
+Joao V. C. Mesquita,Masculino,1,0.000834,0.0,0.007915
+Germana M. Nobrega,Feminino,1,0.000834,0.0,0.000834
+Matheus Ferreira,Masculino,1,0.000834,0.0,0.110184
+Ricardo D. Rodriguez,Masculino,1,0.000834,0.0,0.104033
+Mateus F. L. Pelanda,Masculino,1,0.000834,0.0,0.000834
+Fernando W. Cruz,Masculino,1,0.000834,0.0,0.000834
+Noemi P. Pinto,Feminino,1,0.000834,0.0,0.098308
+Emiliandro Firmino,Masculino,1,0.000834,0.0,0.08548
+Rafael G. Barradas,Masculino,1,0.000834,0.0,0.089664
+Claiton M. Correa,Masculino,1,0.000834,0.0,0.113095
+Renato M. B. Alves,Masculino,1,0.000834,0.0,0.096101
+Sofia M. B. Machado,Feminino,1,0.000834,0.0,0.089664
+Gustavo H. S. Alexandre,Masculino,1,0.000834,0.0,0.000834
+Lais Ribeiro,Feminino,1,0.000834,0.0,0.002554
+Jaziel S. Lobo,Masculino,1,0.000834,0.0,0.102334
+Marcos S. Sunye,Masculino,1,0.000834,0.0,0.000834
+Josiney Souza,Masculino,1,0.000834,0.0,0.000834
+Matheus C. Agostinho,Masculino,1,0.000834,0.0,0.000834
+George Valenca,Masculino,1,0.000834,0.0,0.000834
+Leon F. Nascimento,Masculino,1,0.000834,0.0,0.098308
+Marcio S. Camilo,Masculino,1,0.000834,0.0,0.108497
+Kevin L. Santos,Masculino,1,0.000834,0.0,0.000834
+Andre L. C. Ottoni,Masculino,1,0.000834,0.0,0.000834
+Lorena S. Avila,Feminino,1,0.000834,0.0,0.09937
+Luma Seixas,Feminino,1,0.000834,0.0,0.113095
+Frederico A. Durão,Masculino,1,0.000834,0.0,0.089701
+Andressa Kappaun,Feminino,1,0.000834,0.0,0.111808
+Marcelo K. Zuffo,Masculino,1,0.000834,0.0,0.000834
+Kellyne M. Santos,Feminino,1,0.000834,0.0,0.000834
+Rodrigo M. Araujo,Masculino,1,0.000834,0.0,0.000834
+Francisco P. A. Medeiros,Masculino,1,0.000834,0.0,0.000834
+Alex S. Gomes,Masculino,1,0.000834,0.0,0.000834
+Carlos E. Stefani,Masculino,1,0.000834,0.0,0.000834
+Eduardo M. B. Faria,Masculino,0,0.0,0.0,0.0
+Henrique A. D. S. Moreno,Masculino,0,0.0,0.0,0.0
+Marcel P. Caraciolo,Masculino,0,0.0,0.0,0.0
+Fernando B. Pinto,Masculino,0,0.0,0.0,0.0
+Wagner N. Silva,Masculino,0,0.0,0.0,0.0
+Martony D. Silva,Masculino,0,0.0,0.0,0.0
+Luciano Gallegos,Masculino,0,0.0,0.0,0.0
+Vasco Furtado,Masculino,0,0.0,0.0,0.0

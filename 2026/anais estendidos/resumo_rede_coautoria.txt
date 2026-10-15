@@ -1,43 +1,43 @@
 === RESUMO GLOBAL DA REDE DE COAUTORIA SBSC ===
-Total de Autores (Nos): 1325
-Total de Colaboracoes (Arestas): 2798
-Numero de Componentes Conectados: 152
+Total de Autores (Nos): 1200
+Total de Colaboracoes (Arestas): 2684
+Numero de Componentes Conectados: 106
 
 === TOP 10 - CENTRALIDADE DE GRAU ===
                   Autor    Gênero  Coautores Diretos  Centralidade Grau
-        Marco A. Gerosa Masculino                 43           0.032477
-       Jose M. N. David Masculino                 42           0.031722
-    Adriana S. Vivacqua  Feminino                 37           0.027946
-        Jonice Oliveira  Feminino                 36           0.027190
-   Juliana B. S. Franca  Feminino                 36           0.027190
-   Cleidson R. B. Souza Masculino                 36           0.027190
-         Vaninha Vieira  Feminino                 33           0.024924
-Carla D. M. Berkenbrock  Feminino                 33           0.024924
-          Bruno Gadelha Masculino                 32           0.024169
-       Ana C. B. Garcia  Feminino                 31           0.023414
+Cleidson R. B. D. Souza Masculino                 48           0.040033
+        Marco A. Gerosa Masculino                 41           0.034195
+       Jose M. N. David Masculino                 40           0.033361
+Juliana B. D. S. França  Feminino                 35           0.029191
+Carla D. M. Berkenbrock  Feminino                 33           0.027523
+    Adriana S. Vivacqua  Feminino                 33           0.027523
+        Jonice Oliveira  Feminino                 33           0.027523
+          Bruno Gadelha Masculino                 32           0.026689
+         Vaninha Vieira  Feminino                 32           0.026689
+ Angélica F. D. S. Dias  Feminino                 31           0.025855
 
 === TOP 10 - CENTRALIDADE DE INTERMEDIACAO ===
-              Autor    Gênero  Intermediacao (Betweenness)
-      Rafael Parizi Masculino                     0.048724
-Angelica F. S. Dias  Feminino                     0.041609
-    Jonice Oliveira  Feminino                     0.040784
-    Marco A. Gerosa Masculino                     0.038435
-Adriana S. Vivacqua  Feminino                     0.034964
-    Wallace Ugulino Masculino                     0.029889
-Marcos R. S. Borges Masculino                     0.029480
-     Vaninha Vieira  Feminino                     0.028208
-   Jose M. N. David Masculino                     0.026470
-    Leticia Machado  Feminino                     0.026274
+                  Autor    Gênero  Intermediacao (Betweenness)
+         Carla M. Silva  Feminino                     0.096980
+            Ana M. Lima  Feminino                     0.096190
+       Rafael B. Parizi Masculino                     0.085783
+ Angélica F. D. S. Dias  Feminino                     0.078391
+       Aida A. Ferreira  Feminino                     0.077738
+     Ana C. M. Oliveira  Feminino                     0.064766
+          Bruno Gadelha Masculino                     0.064724
+     Anna B. S. Marques  Feminino                     0.064459
+        Ana P. C. Silva  Feminino                     0.055972
+Cleidson R. B. D. Souza Masculino                     0.054204
 
 === TOP 10 - PROXIMIDADE ===
-               Autor    Gênero  Proximidade (Closeness)
-     Jonice Oliveira  Feminino                 0.128543
- Angelica F. S. Dias  Feminino                 0.128347
- Adriana S. Vivacqua  Feminino                 0.127375
-       Rafael Parizi Masculino                 0.124056
-Juliana B. S. Franca  Feminino                 0.120732
-     Wallace Ugulino Masculino                 0.120674
-           Hugo Fuks Masculino                 0.120329
-    Rodrigo Oliveira Masculino                 0.118409
- Marcos R. S. Borges Masculino                 0.116227
-   Flavia M. Santoro  Feminino                 0.115114
+                  Autor    Gênero  Proximidade (Closeness)
+ Angélica F. D. S. Dias  Feminino                 0.146613
+Juliana B. D. S. França  Feminino                 0.140514
+       Rafael B. Parizi Masculino                 0.139291
+        Jonice Oliveira  Feminino                 0.137344
+    Adriana S. Vivacqua  Feminino                 0.135792
+          Bruno Gadelha Masculino                 0.134902
+ Claudia L. R. D. Motta  Feminino                 0.132382
+              Hugo Fuks Masculino                 0.131777
+    Rodrigo R. Oliveira Masculino                 0.131337
+    Marcos R. S. Borges Masculino                 0.131137

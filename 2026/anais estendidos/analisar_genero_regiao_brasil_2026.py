@@ -1,7 +1,7 @@
 import pandas as pd
 
 # 1. Carregar a base enriquecida
-df = pd.read_csv('sbsc_dataset_genero_completo_2006_2026.csv')
+df = pd.read_csv('sbsc_dataset_genero_completo_2006_2026_nomes_corrigidos.csv')
 df.columns = [c.strip() for c in df.columns]
 
 # 2. Desmembrar o dataset para Formato Longo (1 linha por autoria)

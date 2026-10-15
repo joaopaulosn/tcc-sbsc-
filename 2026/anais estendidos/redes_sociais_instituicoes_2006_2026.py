@@ -4,7 +4,7 @@ import networkx as nx
 import pandas as pd
 
 # 1. Carregar dataset consolidado (2006-2026)
-df = pd.read_csv("sbsc_dataset_genero_completo_2006_2026.csv")
+df = pd.read_csv("sbsc_dataset_genero_completo_2006_2026_nomes_corrigidos.csv")
 
 # 2. Construir o grafo da rede de colaboração entre Instituições
 G = nx.Graph()
